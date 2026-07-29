@@ -1,0 +1,87 @@
+{
+  "judgment_source": "UI annotators: annotator_a, annotator_b",
+  "n_items": 200,
+  "precision_annotator_A": 0.665,
+  "precision_annotator_A_ci95": [
+    0.5970206277343806,
+    0.7267601903125736
+  ],
+  "precision_annotator_B": 0.705,
+  "precision_annotator_B_ci95": [
+    0.6384115802925058,
+    0.7638615572809827
+  ],
+  "precision_consensus_both_correct": 0.6,
+  "precision_consensus_ci95": [
+    0.5308354385001253,
+    0.6653953603162106
+  ],
+  "precision_union_either_correct": 0.77,
+  "precision_union_ci95": [
+    0.7069157192180299,
+    0.8229074375860769
+  ],
+  "raw_agreement": 0.83,
+  "cohens_kappa": 0.606800046258818,
+  "gwet_ac1": 0.7009411557744744,
+  "cohens_kappa_ci95_bootstrap": [
+    0.4820441988950277,
+    0.7196261682242991
+  ],
+  "discordant_A0_B1": 21,
+  "discordant_A1_B0": 13,
+  "mcnemar_exact_p": 0.22948101302608848,
+  "spearman_weight_vs_consensus": 0.1900718840045545,
+  "spearman_weight_vs_A": 0.20813338595120906,
+  "spearman_weight_vs_B": 0.1938315247727374,
+  "by_weight": {
+    "weight_ge_0.8": {
+      "n": 69,
+      "precision_A": 0.782608695652174,
+      "precision_B": 0.8115942028985508,
+      "precision_consensus": 0.7101449275362319
+    },
+    "weight_lt_0.8": {
+      "n": 131,
+      "precision_A": 0.6030534351145038,
+      "precision_B": 0.648854961832061,
+      "precision_consensus": 0.5419847328244275
+    },
+    "fisher_p_consensus": 0.023283097206471984
+  },
+  "by_language": {
+    "en": {
+      "n": 85,
+      "precision_A": 0.7529411764705882,
+      "precision_B": 0.7764705882352941,
+      "precision_consensus": 0.6823529411764706
+    },
+    "bn": {
+      "n": 115,
+      "precision_A": 0.6,
+      "precision_B": 0.6521739130434783,
+      "precision_consensus": 0.5391304347826087
+    },
+    "fisher_p_consensus": 0.042746411575571276
+  },
+  "by_relation": {
+    "contrasts": {
+      "n": 8,
+      "precision_A": 0.625,
+      "precision_B": 0.5,
+      "precision_consensus": 0.5
+    },
+    "discusses": {
+      "n": 175,
+      "precision_A": 0.68,
+      "precision_B": 0.7314285714285714,
+      "precision_consensus": 0.6171428571428571
+    },
+    "exemplifies": {
+      "n": 17,
+      "precision_A": 0.5294117647058824,
+      "precision_B": 0.5294117647058824,
+      "precision_consensus": 0.47058823529411764
+    }
+  }
+}

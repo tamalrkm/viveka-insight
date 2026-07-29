@@ -1,0 +1,38 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+*.egg-info/
+data/
+index_data/
+index_data_sample/
+viveka-insight-transfer.zip
+_old_scaffold/
+checkpoints/
+runs/
+wandb/
+streamlit.log
+annotate.log
+docs/concept_graph_preview.html
+
+# LaTeX build artifacts (PDFs are kept deliberately; intermediates are not)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+# Regenerable arXiv bundle — see docs/paper/ARXIV_SUBMISSION.md
+docs/paper/arxiv/
+docs/paper/arxiv-submission.tar.gz
+
+# Internal campus deployment notes: contains private IPs, the `arjuna`
+# hostname, internal DNS/Caddy config and a container ID. Kept locally,
+# NOT published. Sanitize before adding to the public repo.
+DEPLOY.md
+
+# Local scratch notes; contributor-facing content lives in docs/ARCHITECTURE.md
+CLAUDE.md

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "viveka-insight: a pipeline for cross-lingual concept-graph retrieval over non-parallel multilingual corpora"
+abstract: >-
+  An open-source Python pipeline that makes large, non-parallel multilingual
+  text collections searchable by meaning. It builds a cross-lingual concept
+  graph in which canonical English concept labels act as a language-agnostic
+  key, and layers multi-granular dense retrieval, rank fusion, cross-encoder
+  reranking and citation-grounded question answering on top of it.
+type: software
+authors:
+  - given-names: Tamal
+    family-names: Maharaj
+    email: tamal@gm.rkmvu.ac.in
+    orcid: "https://orcid.org/0009-0001-5835-8967"
+    affiliation: >-
+      Ramakrishna Mission Vivekananda Educational and Research Institute,
+      Belur Math, West Bengal, India
+license: MIT
+version: 0.1.0
+date-released: "2026-07-28"
+keywords:
+  - retrieval-augmented generation
+  - cross-lingual information retrieval
+  - concept graph
+  - multilingual NLP
+  - Bengali
+  - digital humanities
+  - cultural heritage
+repository-code: "https://github.com/tamalrkm/viveka-insight"
+url: "https://github.com/tamalrkm/viveka-insight"
+doi: "10.5281/zenodo.21669974"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21669974"
+    description: "Archived snapshot of this release"

@@ -1,0 +1,57 @@
+# ──────────────────────────────────────────────────────────────────────
+# viveka-insight — pinned for CUDA 12.4 / A100 80GB (Python 3.10 or 3.11)
+# ──────────────────────────────────────────────────────────────────────
+# Recommended install (uv):
+#
+#   uv venv .venv --python 3.11 --seed && source .venv/bin/activate
+#   uv pip install -r requirements.txt --index-strategy unsafe-best-match
+#
+# Or with plain pip:
+#   pip install -r requirements.txt
+#
+# Notes:
+# * vLLM 0.7.3 ships pre-compiled against torch 2.5.1+cu124. You do NOT
+#   need to install torch from a separate index — letting `pip install vllm`
+#   pull the right torch build is the supported path. CUDA 12.x minor
+#   versions are forward-compatible, so torch+cu121/cu124 wheels run on
+#   any CUDA 12.x driver, including 12.4.
+# * If you need an even newer vLLM later, see the matrix in README.md.
+# ──────────────────────────────────────────────────────────────────────
+
+# Parsing
+beautifulsoup4>=4.12
+lxml>=4.9
+
+# ML core — torch is pinned to what vLLM 0.7.x supports.
+torch==2.5.1
+transformers>=4.45,<4.50    # vLLM 0.7.x requires <4.50; FlagEmbedding works in this range
+sentence-transformers>=3.0,<4.0
+FlagEmbedding>=1.3.0,<1.4   # 1.4.0 passes dtype= to from_pretrained, needs transformers>=4.56
+accelerate>=0.30
+tokenizers>=0.20
+
+# Vector index
+# faiss-gpu wheels are flaky on PyPI; faiss-cpu is fine for our scale.
+faiss-cpu>=1.8.0
+
+# Local LLM serving (concept extraction).
+# 0.7.3 is the last 0.7-series release; well-tested with torch 2.5.1.
+vllm==0.7.3
+
+# OpenAI-compat fallback
+openai>=1.40
+
+# Sentence splitting + numerics
+nltk>=3.8
+numpy>=1.24,<2.0           # <2.0 for FAISS / FlagEmbedding compatibility
+scipy>=1.11
+tqdm>=4.66
+
+# Optional: GNN refinement (stage 6). Skip if not running it.
+torch_geometric>=2.5
+# Optional accelerators (install separately, matched to torch+CUDA):
+#   pip install torch_scatter torch_sparse \
+#       -f https://data.pyg.org/whl/torch-2.5.1+cu124.html
+
+# Web UI
+streamlit>=1.36

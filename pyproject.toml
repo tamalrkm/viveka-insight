@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "viveka-insight"
+version = "0.1.0"
+description = "Multi-granular concept-graph RAG over Vivekananda's complete works (English + Bengali)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "viveka-insight contributors" }]
+keywords = ["rag", "search", "vivekananda", "vedanta", "knowledge graph", "bengali", "multilingual"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Topic :: Text Processing :: Linguistic",
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.optional-dependencies]
+gnn = ["torch_geometric>=2.5"]
+
+[tool.setuptools.packages.find]
+include = ["viveka_insight*"]
+exclude = ["tests*", "scripts*", "webapp*"]

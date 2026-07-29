@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+  * { box-sizing: border-box; }
+  html,body { margin:0; font-family: system-ui, "Segoe UI", Roboto, "Noto Sans Bengali", sans-serif; }
+  #wrap { display:flex; background:#fbfaf7; }
+  #cy { flex:1; height:100%; }
+  #side { width:250px; height:100%; overflow-y:auto; border-left:1px solid #e6e1d6;
+          background:#fff; padding:8px 10px; font-size:13px; }
+  /* The index is opt-in: it costs 250px of canvas and most sessions never
+     open it. `sidehidden` is the initial state; #toggle flips it. */
+  body.sidehidden #side { display:none; }
+  #toggle { position:absolute; top:8px; right:258px; z-index:6; cursor:pointer;
+            background:rgba(255,255,255,.92); border:1px solid #e6e1d6;
+            border-radius:8px; padding:5px 9px; font-size:12px; color:#444;
+            font-family:inherit; }
+  #toggle:hover { background:#f0ece2; }
+  body.sidehidden #toggle { right:8px; }
+  #side h4 { margin:6px 0 4px; font-size:12px; text-transform:uppercase; letter-spacing:.04em; color:#666; }
+  #q { width:100%; padding:5px 7px; border:1px solid #d8d2c4; border-radius:6px; margin-bottom:6px; font-size:13px; }
+  .grp-h { display:flex; align-items:center; gap:6px; margin:8px 0 2px; font-weight:600; font-size:12px; }
+  .sw { width:11px; height:11px; border-radius:3px; flex:0 0 auto; }
+  .item { padding:2px 6px; border-radius:5px; cursor:pointer; white-space:nowrap;
+          overflow:hidden; text-overflow:ellipsis; }
+  .item:hover { background:#f0ece2; }
+  .item .n { color:#aaa; font-size:11px; }
+  .item.sel { font-weight:600; box-shadow:inset 2px 0 0 #c0392b; }
+  .item .co { color:#8a7f6a; font-size:11px; }
+  #legend { position:absolute; top:8px; left:8px; background:rgba(255,255,255,.92);
+            border:1px solid #e6e1d6; border-radius:8px; padding:7px 9px; font-size:12px; max-width:230px; }
+  #legend .row { display:flex; align-items:center; gap:6px; margin:2px 0; }
+  #legend .el { width:22px; height:0; border-top:3px solid; }
+  #legend .dot { width:11px; height:11px; border-radius:50%; background:#fff; flex:0 0 auto; }
+  body.sidehidden #detail { right:8px; }
+  #detail { position:absolute; bottom:8px; left:8px; right:258px; background:rgba(255,255,255,.96);
+            border:1px solid #e6e1d6; border-radius:8px; padding:8px 11px; font-size:13px;
+            max-height:150px; overflow-y:auto; display:none; }
+  #detail b.big { font-size:15px; }
+  .chip { display:inline-block; background:#eef; border-radius:9px; padding:1px 7px; margin:1px; font-size:11px; }
+  .bn { font-family:"Noto Sans Bengali","Noto Serif Bengali",serif; }
+  /* An edge whose passages are showing below, in Streamlit. */
+  edge.picked { }
+  .hint { color:#888; font-size:11px; margin-left:6px; }
+</style>
+</head>
+<body class="sidehidden">
+<div id="wrap">
+  <div id="cy"></div>
+  <div id="side">
+    <input id="q" placeholder="search concepts…">
+    <div id="groups"></div>
+  </div>
+</div>
+<button id="toggle" type="button">☰ index</button>
+<div id="legend"></div>
+<div id="detail"></div>
+<script src="vendor/cytoscape.min.js"></script>
+<script src="vendor/layout-base.js"></script>
+<script src="vendor/cose-base.js"></script>
+<script src="vendor/cytoscape-fcose.js"></script>
+<script src="graph.js"></script>
+</body>
+</html>
