@@ -29,8 +29,11 @@ keywords:
   - cultural heritage
 repository-code: "https://github.com/tamalrkm/viveka-insight"
 url: "https://github.com/tamalrkm/viveka-insight"
-doi: "10.5281/zenodo.21669974"
+doi: "10.5281/zenodo.21669973"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.21669974"
-    description: "Archived snapshot of this release"
+    value: "10.5281/zenodo.21669973"
+    description: "Concept DOI — always resolves to the latest release"
+  - type: doi
+    value: "10.5281/zenodo.21670420"
+    description: "Version DOI — the v0.1.0 archived snapshot"

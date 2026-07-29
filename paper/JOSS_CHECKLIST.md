@@ -8,10 +8,9 @@ not aspirational: ✅ done, ⚠️ partial/risk, ❌ blocker.
 | # | Item | Status |
 |---|---|---|
 | 1 | **Public repository** — live at <https://github.com/tamalrkm/viveka-insight>, MIT detected by GitHub. | ✅ 2026-07-29 |
-| 2 | **Archive with DOI.** Zenodo (or similar) deposit, tagged to the reviewed version. Required at review time. | ❌ |
+| 2 | **Archive with DOI** — v0.1.0 deposited on Zenodo. Version DOI `10.5281/zenodo.21670420` (give this to JOSS); concept DOI `10.5281/zenodo.21669973`. | ✅ 2026-07-29 |
 
-The `[repository URL]` placeholder in the manuscript is now resolved;
-`[archive DOI]` remains and depends solely on item 2.
+Both blockers are cleared and the manuscript renders no placeholders.
 
 ## General checks
 
@@ -74,7 +73,7 @@ push. Cheap, since the suite is CPU-only and 11 seconds.
 
 1. ~~Create the public repository~~ — done 2026-07-29.
 2. ~~Add the sample corpus + `--sample` pipeline path~~ — done 2026-07-29.
-3. Deposit derived layers on Zenodo → DOI.
+3. ~~Deposit derived layers on Zenodo → DOI~~ — done 2026-07-29 (v0.1.0).
 4. Fill `[repository URL]` and `[archive DOI]` in the manuscript; update
    `CITATION.cff` (`repository-code`, `url`, `doi`).
 5. Post to arXiv.

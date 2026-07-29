@@ -14,12 +14,14 @@ contains none.
 | Placeholder | Resolved to |
 |---|---|
 | `[repository URL]` | <https://github.com/tamalrkm/viveka-insight> (2026-07-29) |
-| `[archive DOI]` | `10.5281/zenodo.21669974` (2026-07-29) |
+| `[archive DOI]` | `10.5281/zenodo.21669973` — concept DOI (2026-07-29) |
 
-One check before uploading: confirm the DOI above is the one you want cited.
-Zenodo mints **two** — a *concept* DOI that always resolves to the newest
-version, and a *version* DOI pinned to one release. The concept DOI is
-usually the better citation in a paper. Both appear on the Zenodo record page.
+Zenodo mints two DOIs and both are recorded:
+
+- **Concept** `10.5281/zenodo.21669973` — always resolves to the newest release. This is
+  what the manuscript and `CITATION.cff` cite.
+- **Version** `10.5281/zenodo.21670420` — pinned to v0.1.0. Give this one to JOSS, which
+  archives the exact reviewed snapshot.
 
 Regenerate the bundle after fixing:
 
