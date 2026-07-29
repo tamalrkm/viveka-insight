@@ -34,5 +34,3 @@ docs/paper/arxiv-submission.tar.gz
 # NOT published. Sanitize before adding to the public repo.
 DEPLOY.md
 
-# Local scratch notes; contributor-facing content lives in docs/ARCHITECTURE.md
-CLAUDE.md

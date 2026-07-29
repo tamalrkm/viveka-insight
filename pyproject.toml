@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "viveka-insight"
-version = "0.1.0"
+version = "0.1.1"
 description = "Multi-granular concept-graph RAG over Vivekananda's complete works (English + Bengali)."
 readme = "README.md"
 requires-python = ">=3.10"
