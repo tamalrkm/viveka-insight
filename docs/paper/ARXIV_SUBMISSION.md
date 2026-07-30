@@ -32,10 +32,14 @@ cp viveka_insight_lre.tex sn-jnl.cls sn-nature.bst arxiv/
 cd arxiv && pdflatex viveka_insight_lre.tex && pdflatex viveka_insight_lre.tex
 # check: 0 errors, no red [ ] markers in the PDF
 rm -f *.aux *.log *.out *.pdf
-cd .. && tar czf arxiv-submission.tar.gz -C arxiv .
+cd .. && zip -X arxiv-submission.zip -j arxiv/viveka_insight_lre.tex \
+                                        arxiv/sn-jnl.cls arxiv/sn-nature.bst
 ```
 
-Upload `arxiv-submission.tar.gz`. Source only — no PDF in the tarball.
+Upload `arxiv-submission.zip` (arXiv also accepts `.tar.gz`). Source only —
+no PDF, no `.aux`/`.log`. The archive must be **flat**: arXiv extracts into
+one working directory and expects the `.tex` at the top level, not nested in
+a folder.
 
 ## Form fields
 

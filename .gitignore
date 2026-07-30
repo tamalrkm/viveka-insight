@@ -28,6 +28,7 @@ docs/concept_graph_preview.html
 # Regenerable arXiv bundle — see docs/paper/ARXIV_SUBMISSION.md
 docs/paper/arxiv/
 docs/paper/arxiv-submission.tar.gz
+docs/paper/arxiv-submission.zip
 
 # Internal campus deployment notes: contains private IPs, the `arjuna`
 # hostname, internal DNS/Caddy config and a container ID. Kept locally,
