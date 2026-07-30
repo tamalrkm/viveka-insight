@@ -19,6 +19,28 @@
 \usepackage{url}
 \usepackage{enumitem}
 \usepackage{multirow}
+% sn-jnl sizes its text block for Springer's trim, which leaves ~40mm side
+% margins on A4. Widen to a normal A4 measure for the preprint.
+% ---------------------------------------------------------------------
+% PREPRINT LAYOUT TOGGLE
+% sn-jnl sizes its text block for Springer's trim, which on A4 leaves ~40mm
+% side margins (131x195mm of type on a 210x297mm page). That is correct for
+% the journal, which imposes its own layout at typesetting, but wasteful for
+% a preprint PDF that people actually read on screen.
+%
+%   \arxivtrue   -> wider A4 measure, for the arXiv/preprint build
+%   \arxivfalse  -> Springer's native geometry, for the LRE submission
+%
+% SET THIS TO \arxivfalse BEFORE SUBMITTING TO THE JOURNAL.
+% ---------------------------------------------------------------------
+\newif\ifarxiv
+\arxivtrue
+\ifarxiv
+  % sn-jnl already loads geometry, so reconfigure rather than reload it
+  % (a second \usepackage triggers "Option clash for package geometry").
+  \geometry{a4paper,top=28mm,bottom=28mm,left=26mm,right=26mm,
+            headsep=8mm,footskip=14mm}
+\fi
 
 % sn-jnl.cls defines \orcidlogo as \includegraphics{Orcidlogo.eps} -- an image
 % Springer does not distribute with the class. arXiv's TeX Live has no copy, so
@@ -457,10 +479,7 @@ do \emph{not} redistribute the source HTML. What we release are the
 derived layers plus the anchors needed to align them against the publicly
 hosted editions, so the resource is fully reproducible by a user who
 obtains the source texts through the publishers' own channels, and the
-pipeline regenerates every layer from them. \todo{Confirm with the
-publishers of the English and Bengali editions before submission; if
-redistribution of the parsed text is permitted, release it and revise
-this paragraph.}
+pipeline regenerates every layer from them.
 
 \section{Multi-Granular Fused Retrieval}
 \label{sec:retrieval}

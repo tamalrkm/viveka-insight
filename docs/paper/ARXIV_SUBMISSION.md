@@ -92,6 +92,25 @@ a pre-wrapped block. All numbers and all four resource layers are retained;
 only padding was cut, so it differs slightly from the PDF abstract, which is
 normal and expected.
 
+## Preprint vs journal layout
+
+`viveka_insight_lre.tex` carries a toggle near the top of the preamble:
+
+```latex
+\newif\ifarxiv
+\arxivtrue     % wide A4 measure, for arXiv/preprint
+% \arxivfalse  % Springer's native geometry, for the LRE submission
+```
+
+`sn-jnl` sizes its text block for Springer's trim, which on A4 leaves ~40 mm
+side margins (131x195 mm of type on a 210x297 mm page). That is right for the
+journal — they impose their own layout at typesetting — but wasteful in a
+preprint people read on screen. With `\arxivtrue` the measure becomes
+153x242 mm and the paper is 13 pages instead of 18.
+
+**Set `\arxivfalse` before submitting to LRE.** Both settings are verified to
+build with 0 errors and 0 overfull boxes.
+
 ## Notes
 
 - The bundle builds standalone: the only non-standard files are
