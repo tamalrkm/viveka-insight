@@ -29,6 +29,8 @@ docs/concept_graph_preview.html
 docs/paper/arxiv/
 docs/paper/arxiv-submission.tar.gz
 docs/paper/arxiv-submission.zip
+# built arXiv upload, regenerable from docs/paper/ (see ARXIV_SUBMISSION.md)
+viveka-insight-arxiv.zip
 
 # Internal campus deployment notes: contains private IPs, the `arjuna`
 # hostname, internal DNS/Caddy config and a container ID. Kept locally,
