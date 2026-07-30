@@ -8,7 +8,7 @@ not aspirational: ✅ done, ⚠️ partial/risk, ❌ blocker.
 | # | Item | Status |
 |---|---|---|
 | 1 | **Public repository** — live at <https://github.com/tamalrkm/viveka-insight>, MIT detected by GitHub. | ✅ 2026-07-29 |
-| 2 | **Archive with DOI** — v0.1.0 deposited on Zenodo. Version DOI `10.5281/zenodo.21670420` (give this to JOSS); concept DOI `10.5281/zenodo.21669973`. | ✅ 2026-07-29 |
+| 2 | **Archive with DOI** — v0.1.0 deposited on Zenodo. Version DOI `10.5281/zenodo.21701206` for v0.1.1 (give this to JOSS); concept DOI `10.5281/zenodo.21669973`. | ✅ 2026-07-29 |
 
 Both blockers are cleared and the manuscript renders no placeholders.
 

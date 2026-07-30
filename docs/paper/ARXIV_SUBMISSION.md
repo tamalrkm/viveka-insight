@@ -20,7 +20,7 @@ Zenodo mints two DOIs and both are recorded:
 
 - **Concept** `10.5281/zenodo.21669973` — always resolves to the newest release. This is
   what the manuscript and `CITATION.cff` cite.
-- **Version** `10.5281/zenodo.21670420` — pinned to v0.1.0. Give this one to JOSS, which
+- **Version** `10.5281/zenodo.21701206` — pinned to v0.1.1. Give this one to JOSS, which
   archives the exact reviewed snapshot.
 
 Regenerate the bundle after fixing:

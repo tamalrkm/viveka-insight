@@ -18,7 +18,7 @@ authors:
       Belur Math, West Bengal, India
 license: MIT
 version: 0.1.1
-date-released: "2026-07-28"
+date-released: "2026-07-30"
 keywords:
   - retrieval-augmented generation
   - cross-lingual information retrieval
@@ -35,5 +35,5 @@ identifiers:
     value: "10.5281/zenodo.21669973"
     description: "Concept DOI — always resolves to the latest release"
   - type: doi
-    value: "10.5281/zenodo.21670420"
-    description: "Version DOI — the v0.1.0 archived snapshot"
+    value: "10.5281/zenodo.21701206"
+    description: "Version DOI — the v0.1.1 archived snapshot"
