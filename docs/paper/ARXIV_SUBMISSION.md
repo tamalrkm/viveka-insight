@@ -84,46 +84,13 @@ layers released under MIT and CC BY 4.0 respectively.
 release of the derived data layers claimed in §5.3. (The arXiv default
 non-exclusive licence would be inconsistent with that claim.)
 
-**Abstract** (plain text — arXiv accepts no LaTeX markup here)
-
-```
-Classical spiritual and philosophical corpora pose three compounding
-challenges for language resources: they exist in several languages
-without parallel alignment, their vocabulary differs sharply from that of
-contemporary readers, and any generated text over such culturally
-sensitive material must be verifiably grounded in the source. We present
-Viveka-Insight, a bilingual resource and accompanying open-source
-pipeline for the works of Swami Vivekananda (1863-1902) -- the
-nine-volume English Complete Works and the ten-volume Bengali Vani o
-Rachana, two related but non-parallel corpora totalling about 15 million
-characters. The released resource has four layers: (i) a
-structure-preserving parse of both corpora into a volume - chapter -
-paragraph - sentence hierarchy (32,694 paragraphs, 168,842 sentences)
-with per-paragraph anchors that deep-link back to the published editions;
-(ii) a cross-lingual concept graph of 8,362 language-agnostic concepts
-carrying 87,518 paragraph-concept edges typed by relation and 55,872
-concept-concept edges, in which canonical English labels act as a
-string-equality key that links Bengali and English passages with no
-parallel data; (iii) a bilingual alias inventory of 60,850 surface forms
-(30,053 English, 30,797 Bengali) mapping each concept to its realizations
-in both languages; and (iv) a human-annotated evaluation set of 200
-paragraph-concept edges judged independently by three annotators,
-released with all per-annotator judgments. We document the construction
-pipeline, which needs one extraction pass by a mid-sized
-instruction-tuned LLM and rebuilds incrementally in 10-15 minutes after
-source edits, and report three evaluations: known-item cross-lingual
-retrieval over 194 automatically verified rendered lecture pairs
-(Recall@10 0.86 in both directions); a 30-question audit of citation
-integrity and modern-question bridging; and the human study, which places
-concept-extraction precision at 0.60 under strict two-annotator consensus
-(Cohen's kappa = 0.61). The study also shows the extractor's confidence
-weight is calibrated -- restricting to weight >= 0.8 raises precision to
-0.71 while retaining 98% of concept-bearing paragraphs -- and that
-precision is markedly lower in Bengali than English (0.54 vs 0.68),
-locating the resource's weakness in exactly the half that cross-lingual
-access depends on. The design assumes nothing Vivekananda-specific and
-transfers to other multilingual classical corpora.
-```
+**Abstract** — arXiv caps this field at **1,920 characters**, which the
+manuscript's own abstract exceeds. A trimmed 1,914-character version is kept
+verbatim in `abstract_plain.txt`; paste that. It must go in as a **single
+line with no hard wrapping** — arXiv preserves newlines and the form mangles
+a pre-wrapped block. All numbers and all four resource layers are retained;
+only padding was cut, so it differs slightly from the PDF abstract, which is
+normal and expected.
 
 ## Notes
 
