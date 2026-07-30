@@ -16,10 +16,17 @@
 \usepackage{tikz}
 \usetikzlibrary{arrows.meta,positioning,shapes.geometric}
 \usepackage{xcolor}
-\usepackage{orcidlink}
 \usepackage{url}
 \usepackage{enumitem}
 \usepackage{multirow}
+
+% sn-jnl.cls defines \orcidlogo as \includegraphics{Orcidlogo.eps} -- an image
+% Springer does not distribute with the class. arXiv's TeX Live has no copy, so
+% expanding it fails the build. We do not use the class's \orcid macro; this
+% neutralises the reference defensively.
+\makeatletter
+\gdef\orcidlogo{}%
+\makeatother
 
 \newcommand{\system}{\textsc{Viveka-Insight}}
 % Visible placeholder — every \todo must be resolved before submission.
@@ -31,7 +38,7 @@
 cross-lingual concept graph and citation-grounded retrieval resource over
 the complete works of Swami Vivekananda in English and Bengali}
 
-\author*[1]{\fnm{Tamal} \sur{Maharaj}\,\orcidlink{0009-0001-5835-8967}}
+\author*[1]{\fnm{Tamal} \sur{Maharaj}}
 \email{tamal@gm.rkmvu.ac.in}
 
 \affil[1]{\orgname{Ramakrishna Mission Vivekananda Educational and

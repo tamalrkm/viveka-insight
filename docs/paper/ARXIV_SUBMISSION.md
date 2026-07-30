@@ -32,9 +32,20 @@ cp viveka_insight_lre.tex sn-jnl.cls sn-nature.bst arxiv/
 cd arxiv && pdflatex viveka_insight_lre.tex && pdflatex viveka_insight_lre.tex
 # check: 0 errors, no red [ ] markers in the PDF
 rm -f *.aux *.log *.out *.pdf
-cd .. && zip -X arxiv-submission.zip -j arxiv/viveka_insight_lre.tex \
-                                        arxiv/sn-jnl.cls arxiv/sn-nature.bst
+cd .. && zip -X arxiv-submission.zip -j arxiv/viveka_insight_lre.tex arxiv/sn-jnl.cls
 ```
+
+**Do not add `sn-nature.bst`** — the bibliography is a manual
+`thebibliography`, so no BibTeX style is used and arXiv flags it as unused.
+
+**Do not reinstate the ORCID in the title block.** `sn-jnl.cls` defines
+`\orcidlogo` as `\includegraphics{Orcidlogo.eps}`, an image Springer does not
+ship with the class. arXiv's TeX Live has no copy, and expanding it at
+`\maketitle` fails the build outright. The manuscript therefore drops the
+ORCID from the author line and neutralises `\orcidlogo` defensively in the
+preamble. The ORCID is still recorded in `CITATION.cff`, in the Zenodo
+deposit, and on the arXiv submission itself (arXiv links ORCID at the account
+level, not through the PDF).
 
 Upload `arxiv-submission.zip` (arXiv also accepts `.tar.gz`). Source only —
 no PDF, no `.aux`/`.log`. The archive must be **flat**: arXiv extracts into
