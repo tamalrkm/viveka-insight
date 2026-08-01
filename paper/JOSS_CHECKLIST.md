@@ -1,18 +1,59 @@
 # JOSS readiness — criteria vs. what's actually in the repo
 
-Assessed 2026-07-28, updated 2026-07-29, against the JOSS reviewer checklist. Status is honest,
+Assessed 2026-07-28, updated 2026-08-01, against the JOSS reviewer checklist
+and <https://joss.readthedocs.io/en/latest/submitting.html>. Status is honest,
 not aspirational: ✅ done, ⚠️ partial/risk, ❌ blocker.
 
-## Blockers — cannot submit until resolved
+## ⛔ DO NOT SUBMIT YET — scope gate not met
 
-| # | Item | Status |
+JOSS lists as **out of scope**: *"Software without public development history
+(minimum six months prior to submission)."*
+
+| | |
+|---|---|
+| Repository made public | **2026-07-29** |
+| Public history as of 2026-08-01 | **3 days** |
+| Earliest eligible submission | **~2027-01-29** |
+
+The code itself dates from May 2026 and the first local commit from
+2026-07-04, but neither was public, and JOSS's wording is about *public*
+history. Submitting now invites a desk rejection on scope, which is a poor
+first impression with an editor and is recorded publicly.
+
+Nothing else blocks: every other criterion below passes. The action is to
+wait and accrue the record, not to change the software.
+
+### What to do in the six months
+
+1. **Land the companion paper.** JOSS weighs *"evidence of publications or
+   analyses using the software"* — an accepted or at least posted resource
+   paper is the single strongest signal available here.
+2. **Keep committing in public.** Real, dated development history is exactly
+   what the rule asks for; it accrues by itself if work continues.
+3. **Find an external user.** *"External adopters or integrations"* is
+   named explicitly. Even one other group indexing a different corpus with
+   the pipeline would answer the weakest remaining criterion.
+4. **Leave issues and PRs visible** rather than working only locally —
+   *"pathways for community contribution"* is assessed from the repo.
+
+## Scope and significance
+
+| Criterion | Status | Notes |
 |---|---|---|
-| 1 | **Public repository** — live at <https://github.com/tamalrkm/viveka-insight>, MIT detected by GitHub. | ✅ 2026-07-29 |
-| 2 | **Archive with DOI** — v0.1.0 deposited on Zenodo. Version DOI `10.5281/zenodo.21701206` for v0.1.1 (give this to JOSS); concept DOI `10.5281/zenodo.21669973`. | ✅ 2026-07-29 |
-
-Both blockers are cleared and the manuscript renders no placeholders.
+| Public development history ≥ 6 months | ❌ | 3 days. The only hard blocker |
+| Not a minor utility / thin client / single function | ✅ | 7,613 lines; full parse → embed → extract → link → graph → serve pipeline |
+| Not a pre-trained model or notebook | ✅ | |
+| Not feature-incomplete | ✅ | Deployed and serving; 74 tests |
+| Not a web tool lacking a core library | ✅ | Streamlit UI sits on top of an importable library |
+| Paper is about the software, not new research results | ✅ | `paper/paper.md` describes the pipeline; the resource paper and its findings are a separate submission |
+| Design thinking / architectural trade-offs | ✅ | `docs/ARCHITECTURE.md` documents invariants, the cost model and why SQLite over a graph DB |
+| Installability, understandability, testability | ✅ | `--sample` runs the whole pipeline on CPU in <1 min |
+| Research impact: publications or analyses using it | ⚠️ | Companion paper under submission; deployed at the authors' institution |
+| External adopters or integrations | ⚠️ | None yet — the weakest criterion after the history gate |
+| Collaborative development | ⚠️ | Single contributor |
 
 ## General checks
+
 
 | Item | Status | Notes |
 |---|---|---|
