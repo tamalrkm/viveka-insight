@@ -1,2282 +1,2852 @@
 [
  {
-  "bn": 5423,
-  "en": 4057,
+  "bn": 7414,
+  "en": 6048,
   "sim": 0.8374795317649841,
   "en_title": "INDIAN RELIGIOUS THOUGHT",
   "bn_title": "ভারতীয় ধর্মচিন্তা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4057,
+  "bn_stale": 5423
  },
  {
-  "bn": 5815,
-  "en": 4307,
+  "bn": 7806,
+  "en": 6298,
   "sim": 0.8321456909179688,
   "en_title": "HINDU AND GREEK",
   "bn_title": "হিন্দু ও গ্রীকজাতি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4307,
+  "bn_stale": 5815
  },
  {
-  "bn": 5534,
-  "en": 4018,
+  "bn": 7525,
+  "en": 6009,
   "sim": 0.8271486759185791,
   "en_title": "THE INFLUENCE OF INDIAN SPIRITUAL THOUGHT IN ENGLAND",
   "bn_title": "ইংলণ্ডে ভারতীয় আধ্যাত্মিক চিন্তার প্রভাব",
-  "verified": true
+  "verified": true,
+  "en_stale": 4018,
+  "bn_stale": 5534
  },
  {
-  "bn": 5840,
-  "en": 4316,
+  "bn": 7831,
+  "en": 6307,
   "sim": 0.8172956705093384,
   "en_title": "ON PROOF OF RELIGION",
   "bn_title": "ধর্মের প্রমাণ-প্রসঙ্গে",
-  "verified": true
+  "verified": true,
+  "en_stale": 4316,
+  "bn_stale": 5840
  },
  {
-  "bn": 5503,
-  "en": 4722,
+  "bn": 7494,
+  "en": 6713,
   "sim": 0.8164693117141724,
   "en_title": "GOD: PERSONAL AND IMPERSONAL",
   "bn_title": "ঈশ্বরঃ ব্যক্ত ও অব্যক্ত",
-  "verified": true
+  "verified": true,
+  "en_stale": 4722,
+  "bn_stale": 5503
  },
  {
-  "bn": 5465,
-  "en": 3987,
+  "bn": 7456,
+  "en": 5978,
   "sim": 0.8134045600891113,
   "en_title": "UNIVERSAL LOVE AND HOW IT LEADS TO SELF-SURRENDER",
   "bn_title": "বিশ্বপ্রেম ও আত্মসমর্পণ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3987,
+  "bn_stale": 5465
  },
  {
-  "bn": 5546,
-  "en": 4730,
+  "bn": 7537,
+  "en": 6721,
   "sim": 0.8128568530082703,
   "en_title": "HINDUS AND CHRISTIANS",
   "bn_title": "হিন্দু ও খ্রীষ্টান",
-  "verified": true
+  "verified": true,
+  "en_stale": 4730,
+  "bn_stale": 5546
  },
  {
-  "bn": 5743,
-  "en": 4234,
+  "bn": 7734,
+  "en": 6225,
   "sim": 0.8111593723297119,
   "en_title": "INDIA AND ENGLAND",
   "bn_title": "ভারত ও ইংলণ্ড",
-  "verified": true
+  "verified": true,
+  "en_stale": 4234,
+  "bn_stale": 5743
  },
  {
-  "bn": 5580,
-  "en": 4608,
+  "bn": 7571,
+  "en": 6599,
   "sim": 0.8098053336143494,
   "en_title": "MEMOIRS OF EUROPEAN TRAVEL ADDENDA",
   "bn_title": "পরিব্রাজকের ডায়েরী—সংক্ষিপ্ত পরিশিষ্ট",
-  "verified": false
+  "verified": false,
+  "en_stale": 4608,
+  "bn_stale": 5580
  },
  {
-  "bn": 5550,
-  "en": 4698,
+  "bn": 7541,
+  "en": 6689,
   "sim": 0.8071032166481018,
   "en_title": "WOMEN OF INDIA",
   "bn_title": "বক্তৃতা",
-  "verified": false
+  "verified": false,
+  "en_stale": 4698,
+  "bn_stale": 5550
  },
  {
-  "bn": 5544,
-  "en": 4729,
+  "bn": 7535,
+  "en": 6720,
   "sim": 0.805995762348175,
   "en_title": "INDIA",
   "bn_title": "ভারতের রীতিনীতি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4729,
+  "bn_stale": 5544
  },
  {
-  "bn": 5389,
-  "en": 4294,
+  "bn": 7380,
+  "en": 6285,
   "sim": 0.803849995136261,
   "en_title": "NATURE AND MAN",
   "bn_title": "প্রকৃতি ও মানুষ",
-  "verified": true
+  "verified": true,
+  "en_stale": 4294,
+  "bn_stale": 5389
  },
  {
-  "bn": 5839,
-  "en": 4315,
+  "bn": 7830,
+  "en": 6306,
   "sim": 0.8021320104598999,
   "en_title": "THE GOAL",
   "bn_title": "চরম লক্ষ্য বা উদ্দেশ্য",
-  "verified": true
+  "verified": true,
+  "en_stale": 4315,
+  "bn_stale": 5839
  },
  {
-  "bn": 5829,
-  "en": 4301,
+  "bn": 7820,
+  "en": 6292,
   "sim": 0.8013702630996704,
   "en_title": "RELIGION AND SCIENCE",
   "bn_title": "ধর্ম ও বিজ্ঞান",
-  "verified": true
+  "verified": true,
+  "en_stale": 4301,
+  "bn_stale": 5829
  },
  {
-  "bn": 5450,
-  "en": 4324,
+  "bn": 7441,
+  "en": 6315,
   "sim": 0.8000702857971191,
   "en_title": "LESSONS ON RAJA-YOGA",
   "bn_title": "রাজযোগ -শিক্ষা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4324,
+  "bn_stale": 5450
  },
  {
-  "bn": 5446,
-  "en": 4724,
+  "bn": 7437,
+  "en": 6715,
   "sim": 0.7994226813316345,
   "en_title": "PRANAYAMA",
   "bn_title": "প্রাণায়াম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4724,
+  "bn_stale": 5446
  },
  {
-  "bn": 5469,
-  "en": 3991,
+  "bn": 7460,
+  "en": 5982,
   "sim": 0.799397885799408,
   "en_title": "HUMAN REPRESENTATIONS OF THE DIVINE IDEAL OF LOVE",
   "bn_title": "মানবীয় ভাষায় ভগবৎ-প্রেমের বর্ণনা",
-  "verified": true
+  "verified": true,
+  "en_stale": 3991,
+  "bn_stale": 5469
  },
  {
-  "bn": 5746,
-  "en": 4237,
+  "bn": 7737,
+  "en": 6228,
   "sim": 0.798514723777771,
   "en_title": "THE ABROAD AND THE PROBLEMS AT HOME",
   "bn_title": "ভারত ও অন্যান্য দেশের নানা সমস্যা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4237,
+  "bn_stale": 5746
  },
  {
-  "bn": 5749,
-  "en": 4240,
+  "bn": 7740,
+  "en": 6231,
   "sim": 0.7980119585990906,
   "en_title": "ON INDIAN WOMEN — THEIR PAST, PRESENT AND FUTURE",
   "bn_title": "ভারতীয় নারী—তাহাদের অতীত, বর্তমান ও ভবিষ্যৎ",
-  "verified": true
+  "verified": true,
+  "en_stale": 4240,
+  "bn_stale": 5749
  },
  {
-  "bn": 5496,
-  "en": 4732,
+  "bn": 7487,
+  "en": 6723,
   "sim": 0.79755699634552,
   "en_title": "THE RELIGION OF LOVE",
   "bn_title": "প্রেমের ধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4732,
+  "bn_stale": 5496
  },
  {
-  "bn": 5476,
-  "en": 4047,
+  "bn": 7467,
+  "en": 6038,
   "sim": 0.796321451663971,
   "en_title": "THE ISHTA",
   "bn_title": "ইষ্ট",
-  "verified": true
+  "verified": true,
+  "en_stale": 4047,
+  "bn_stale": 5476
  },
  {
-  "bn": 5541,
-  "en": 4328,
+  "bn": 7532,
+  "en": 6319,
   "sim": 0.7958996295928955,
   "en_title": "HISTORICAL EVOLUTION OF INDIA",
   "bn_title": "ভারতের ঐতিহাসিক ক্রমবিকাশ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4328,
+  "bn_stale": 5541
  },
  {
-  "bn": 5342,
-  "en": 4261,
+  "bn": 7333,
+  "en": 6252,
   "sim": 0.7955316305160522,
   "en_title": "LAW AND FREEDOM",
   "bn_title": "কর্মবিধান ও মুক্তি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4261,
+  "bn_stale": 5342
  },
  {
-  "bn": 5754,
-  "en": 4022,
+  "bn": 7745,
+  "en": 6013,
   "sim": 0.7950441241264343,
   "en_title": "INDIA: HER RELIGION AND CUSTOMS",
   "bn_title": "ভারতের ধর্ম ও রীতিনীতিসমূহ",
-  "verified": true
+  "verified": true,
+  "en_stale": 4022,
+  "bn_stale": 5754
  },
  {
-  "bn": 5548,
-  "en": 4059,
+  "bn": 7539,
+  "en": 6050,
   "sim": 0.7942337393760681,
   "en_title": "ON ART IN INDIA",
   "bn_title": "ভারতে শিক্ষাচর্চা",
-  "verified": false
+  "verified": false,
+  "en_stale": 4059,
+  "bn_stale": 5548
  },
  {
-  "bn": 5814,
-  "en": 4740,
+  "bn": 7805,
+  "en": 6731,
   "sim": 0.7938574552536011,
   "en_title": "UNITY",
   "bn_title": "ঐক্য",
-  "verified": true
+  "verified": true,
+  "en_stale": 4740,
+  "bn_stale": 5814
  },
  {
-  "bn": 5521,
-  "en": 4007,
+  "bn": 7512,
+  "en": 5998,
   "sim": 0.791755199432373,
   "en_title": "THE FUTURE OF INDIA",
   "bn_title": "ভারতের ভবিষ্যৎ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4007,
+  "bn_stale": 5521
  },
  {
-  "bn": 5854,
-  "en": 4276,
+  "bn": 7845,
+  "en": 6267,
   "sim": 0.7910853624343872,
   "en_title": "SAYINGS AND UTTERANCES",
   "bn_title": "উক্তি-সঞ্চয়ন—১",
-  "verified": true
+  "verified": true,
+  "en_stale": 4276,
+  "bn_stale": 5854
  },
  {
-  "bn": 5847,
-  "en": 4038,
+  "bn": 7838,
+  "en": 6029,
   "sim": 0.7906831502914429,
   "en_title": "BUDDHISTIC INDIA",
   "bn_title": "বৌদ্ধভারত",
-  "verified": false
+  "verified": false,
+  "en_stale": 4038,
+  "bn_stale": 5847
  },
  {
-  "bn": 5850,
-  "en": 4739,
+  "bn": 7841,
+  "en": 6730,
   "sim": 0.7904375195503235,
   "en_title": "I AM THAT I AM",
   "bn_title": "আমি যে আমিই",
-  "verified": true
+  "verified": true,
+  "en_stale": 4739,
+  "bn_stale": 5850
  },
  {
-  "bn": 5529,
-  "en": 4014,
+  "bn": 7520,
+  "en": 6005,
   "sim": 0.7898880839347839,
   "en_title": "THE COMMON BASES OF HINDUISM",
   "bn_title": "হিন্দুধর্মের সাধারণ ভিত্তি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4014,
+  "bn_stale": 5529
  },
  {
-  "bn": 5720,
-  "en": 3910,
+  "bn": 7711,
+  "en": 5901,
   "sim": 0.7892336845397949,
   "en_title": "THE GITA III",
   "bn_title": "গীতা—৩",
-  "verified": false
+  "verified": false,
+  "en_stale": 3910,
+  "bn_stale": 5720
  },
  {
-  "bn": 5719,
-  "en": 3909,
+  "bn": 7710,
+  "en": 5900,
   "sim": 0.7883701324462891,
   "en_title": "THE GITA II",
   "bn_title": "গীতা—২",
-  "verified": false
+  "verified": false,
+  "en_stale": 3909,
+  "bn_stale": 5719
  },
  {
-  "bn": 5429,
-  "en": 4082,
+  "bn": 7420,
+  "en": 6073,
   "sim": 0.7858425378799438,
   "en_title": "FUNDAMENTALS OF RELIGION",
   "bn_title": "ধর্মের মূলসূত্র",
-  "verified": true
+  "verified": true,
+  "en_stale": 4082,
+  "bn_stale": 5429
  },
  {
-  "bn": 5511,
-  "en": 3997,
+  "bn": 7502,
+  "en": 5988,
   "sim": 0.7855031490325928,
   "en_title": "REPLY TO THE ADDRESS OF WELCOME AT RAMNAD",
   "bn_title": "রামনাদ অভিনন্দনের উত্তর",
-  "verified": false
+  "verified": false,
+  "en_stale": 3997,
+  "bn_stale": 5511
  },
  {
-  "bn": 5498,
-  "en": 4329,
+  "bn": 7489,
+  "en": 6320,
   "sim": 0.7852178812026978,
   "en_title": "THE STORY OF THE BOY GOPALA",
   "bn_title": "বাল-গোপালের কাহিনী",
-  "verified": true
+  "verified": true,
+  "en_stale": 4329,
+  "bn_stale": 5498
  },
  {
-  "bn": 5495,
-  "en": 4300,
+  "bn": 7486,
+  "en": 6291,
   "sim": 0.7851747870445251,
   "en_title": "DIVINE LOVE",
   "bn_title": "দিব্য প্রেম",
-  "verified": false
+  "verified": false,
+  "en_stale": 4300,
+  "bn_stale": 5495
  },
  {
-  "bn": 5468,
-  "en": 3990,
+  "bn": 7459,
+  "en": 5981,
   "sim": 0.7851282954216003,
   "en_title": "THE GOD OF LOVE IS HIS OWN PROOF",
   "bn_title": "প্রেমের ভগবানের প্রমাণ তিনিই",
-  "verified": true
+  "verified": true,
+  "en_stale": 3990,
+  "bn_stale": 5468
  },
  {
-  "bn": 5425,
-  "en": 4703,
+  "bn": 7416,
+  "en": 6694,
   "sim": 0.7838804125785828,
   "en_title": "STRUGGLE FOR EXPANSION",
   "bn_title": "বিস্তারের জন্য সংগ্রাম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4703,
+  "bn_stale": 5425
  },
  {
-  "bn": 5323,
-  "en": 3868,
+  "bn": 7314,
+  "en": 5859,
   "sim": 0.7833899855613708,
   "en_title": "PAPER ON HINDUISM",
   "bn_title": "হিন্দুধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 3868,
+  "bn_stale": 5323
  },
  {
-  "bn": 5341,
-  "en": 4733,
+  "bn": 7332,
+  "en": 6724,
   "sim": 0.78296959400177,
   "en_title": "JNANA AND KARMA",
   "bn_title": "জ্ঞান ও কর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4733,
+  "bn_stale": 5341
  },
  {
-  "bn": 5813,
-  "en": 4721,
+  "bn": 7804,
+  "en": 6712,
   "sim": 0.7826828956604004,
   "en_title": "MAN THE MAKER OF HIS DESTINY",
   "bn_title": "মানুষ নিজেই নিজের ভাগ্যবিধাতা",
-  "verified": false
+  "verified": false,
+  "en_stale": 4721,
+  "bn_stale": 5813
  },
  {
-  "bn": 5402,
-  "en": 3971,
+  "bn": 7393,
+  "en": 5962,
   "sim": 0.7817515134811401,
   "en_title": "UNITY, THE GOAL OF RELIGION",
   "bn_title": "সূচনা",
-  "verified": false
+  "verified": false,
+  "en_stale": 3971,
+  "bn_stale": 5402
  },
  {
-  "bn": 5801,
-  "en": 3967,
+  "bn": 7792,
+  "en": 5958,
   "sim": 0.7815659642219543,
   "en_title": "INDIA'S GIFT TO THE WORLD",
   "bn_title": "জগতে ভারতের দান",
-  "verified": true
+  "verified": true,
+  "en_stale": 3967,
+  "bn_stale": 5801
  },
  {
-  "bn": 5810,
-  "en": 4067,
+  "bn": 7801,
+  "en": 6058,
   "sim": 0.7815549373626709,
   "en_title": "ON DR. PAUL DEUSSEN",
   "bn_title": "ডক্টর পল ডয়সন",
-  "verified": true
+  "verified": true,
+  "en_stale": 4067,
+  "bn_stale": 5810
  },
  {
-  "bn": 5832,
-  "en": 4305,
+  "bn": 7823,
+  "en": 6296,
   "sim": 0.7809015512466431,
   "en_title": "FREEDOM OF THE SELF",
   "bn_title": "আত্মার মুক্তি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4305,
+  "bn_stale": 5832
  },
  {
-  "bn": 5419,
-  "en": 4742,
+  "bn": 7410,
+  "en": 6733,
   "sim": 0.7804961800575256,
   "en_title": "THE ESSENCE OF RELIGION",
   "bn_title": "ধর্মের মূলতত্ত্ব",
-  "verified": true
+  "verified": true,
+  "en_stale": 4742,
+  "bn_stale": 5419
  },
  {
-  "bn": 5325,
-  "en": 3870,
+  "bn": 7316,
+  "en": 5861,
   "sim": 0.7803353667259216,
   "en_title": "BUDDHISM, THE FULFILMENT OF HINDUISM",
   "bn_title": "বৌদ্ধধর্মের সহিত হিন্দুধর্মের সম্বন্ধ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3870,
+  "bn_stale": 5325
  },
  {
-  "bn": 5542,
-  "en": 4071,
+  "bn": 7533,
+  "en": 6062,
   "sim": 0.7800213694572449,
   "en_title": "THE SOCIAL CONFERENCE ADDRESS",
   "bn_title": "সামাজিক সম্মেলন অভিভাষণ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4071,
+  "bn_stale": 5542
  },
  {
-  "bn": 5558,
-  "en": 4094,
+  "bn": 7549,
+  "en": 6085,
   "sim": 0.7795530557632446,
   "en_title": "KNOWLEDGE: ITS SOURCE AND ACQUIREMENT",
   "bn_title": "জ্ঞানার্জন",
-  "verified": false
+  "verified": false,
+  "en_stale": 4094,
+  "bn_stale": 5558
  },
  {
-  "bn": 5383,
-  "en": 3941,
+  "bn": 7374,
+  "en": 5932,
   "sim": 0.7777711153030396,
   "en_title": "PRACTICAL VEDANTA",
   "bn_title": "কর্মজীবনে বেদান্ত - চতুর্থ প্রস্তাব",
-  "verified": true
+  "verified": true,
+  "en_stale": 3941,
+  "bn_stale": 5383
  },
  {
-  "bn": 5718,
-  "en": 3908,
+  "bn": 7709,
+  "en": 5899,
   "sim": 0.7776418328285217,
   "en_title": "THE GITA I",
   "bn_title": "গীতা—১",
-  "verified": false
+  "verified": false,
+  "en_stale": 3908,
+  "bn_stale": 5718
  },
  {
-  "bn": 5381,
-  "en": 3939,
+  "bn": 7372,
+  "en": 5930,
   "sim": 0.7770233154296875,
   "en_title": "PRACTICAL VEDANTA",
   "bn_title": "কর্মজীবনে বেদান্ত - দ্বিতীয় প্রস্তাব",
-  "verified": true
+  "verified": true,
+  "en_stale": 3939,
+  "bn_stale": 5381
  },
  {
-  "bn": 5428,
-  "en": 4262,
+  "bn": 7419,
+  "en": 6253,
   "sim": 0.7769351005554199,
   "en_title": "THE GOAL AND METHODS OF REALISATION",
   "bn_title": "লক্ষ্য ও উহার উপলব্ধির উপায়",
-  "verified": true
+  "verified": true,
+  "en_stale": 4262,
+  "bn_stale": 5428
  },
  {
-  "bn": 5747,
-  "en": 4238,
+  "bn": 7738,
+  "en": 6229,
   "sim": 0.7766785621643066,
   "en_title": "THE MISSIONARY WORK OF THE FIRST HINDU SANNYASIN TO THE WEST AND HIS PLAN OF REGENERATION OF INDIA",
   "bn_title": "পাশ্চাত্যে প্রথম হিন্দু সন্ন্যাসীর প্রচার",
-  "verified": true
+  "verified": true,
+  "en_stale": 4238,
+  "bn_stale": 5747
  },
  {
-  "bn": 5367,
-  "en": 3925,
+  "bn": 7358,
+  "en": 5916,
   "sim": 0.7765598893165588,
   "en_title": "MAYA AND THE EVOLUTION OF THE CONCEPTION OF GOD",
   "bn_title": "মায়া",
-  "verified": true
+  "verified": true,
+  "en_stale": 3925,
+  "bn_stale": 5367
  },
  {
-  "bn": 5540,
-  "en": 4070,
+  "bn": 7531,
+  "en": 6061,
   "sim": 0.7765225768089294,
   "en_title": "ARYANS AND TAMILIANS",
   "bn_title": "আর্য ও তামিল",
-  "verified": false
+  "verified": false,
+  "en_stale": 4070,
+  "bn_stale": 5540
  },
  {
-  "bn": 5805,
-  "en": 3913,
+  "bn": 7796,
+  "en": 5904,
   "sim": 0.7763068079948425,
   "en_title": "THE SOUL AND GOD",
   "bn_title": "আত্মা এবং ঈশ্বর",
-  "verified": false
+  "verified": false,
+  "en_stale": 3913,
+  "bn_stale": 5805
  },
  {
-  "bn": 5539,
-  "en": 4072,
+  "bn": 7530,
+  "en": 6063,
   "sim": 0.7760334014892578,
   "en_title": "INDIA'S MESSAGE TO THE WORLD",
   "bn_title": "ভূমিকা",
-  "verified": false
+  "verified": false,
+  "en_stale": 4072,
+  "bn_stale": 5539
  },
  {
-  "bn": 5824,
-  "en": 4321,
+  "bn": 7815,
+  "en": 6312,
   "sim": 0.7754535675048828,
   "en_title": "NOTES TAKEN DOWN IN MADRAS, 1892-93",
   "bn_title": "১৮৯২-৯৩ খ্রীঃ মান্দ্রাজে গৃহীত স্মারকলিপি হইতে",
-  "verified": true
+  "verified": true,
+  "en_stale": 4321,
+  "bn_stale": 5824
  },
  {
-  "bn": 5331,
-  "en": 3874,
+  "bn": 7322,
+  "en": 5865,
   "sim": 0.7753137350082397,
   "en_title": "THE SECRET OF WORK",
   "bn_title": "কর্মরহস্য",
-  "verified": true
+  "verified": true,
+  "en_stale": 3874,
+  "bn_stale": 5331
  },
  {
-  "bn": 5411,
-  "en": 3922,
+  "bn": 7402,
+  "en": 5913,
   "sim": 0.7753043174743652,
   "en_title": "THE NECESSITY OF RELIGION",
   "bn_title": "ধর্মের প্রয়োজন",
-  "verified": true
+  "verified": true,
+  "en_stale": 3922,
+  "bn_stale": 5411
  },
  {
-  "bn": 5838,
-  "en": 4314,
+  "bn": 7829,
+  "en": 6305,
   "sim": 0.7751717567443848,
   "en_title": "SOUL AND GOD",
   "bn_title": "আত্মা ও ঈশ্বর",
-  "verified": true
+  "verified": true,
+  "en_stale": 4314,
+  "bn_stale": 5838
  },
  {
-  "bn": 5467,
-  "en": 3989,
+  "bn": 7458,
+  "en": 5980,
   "sim": 0.7750738859176636,
   "en_title": "THE TRIANGLE OF LOVE",
   "bn_title": "প্রেম ত্রিকোণাত্মক",
-  "verified": true
+  "verified": true,
+  "en_stale": 3989,
+  "bn_stale": 5467
  },
  {
-  "bn": 5472,
-  "en": 4043,
+  "bn": 7463,
+  "en": 6034,
   "sim": 0.7746711373329163,
   "en_title": "THE FIRST STEPS",
   "bn_title": "ভক্তির প্রথম সোপান—তীব্র ব্যাকুলতা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4043,
+  "bn_stale": 5472
  },
  {
-  "bn": 5431,
-  "en": 3901,
+  "bn": 7422,
+  "en": 5892,
   "sim": 0.7746437191963196,
   "en_title": "VEDANTA AS A FACTOR IN CIVILISATION",
   "bn_title": "সভ্যতার অন্যতম শক্তি বেদান্ত",
-  "verified": true
+  "verified": true,
+  "en_stale": 3901,
+  "bn_stale": 5431
  },
  {
-  "bn": 5435,
-  "en": 3903,
+  "bn": 7426,
+  "en": 5894,
   "sim": 0.7744266986846924,
   "en_title": "STEPS OF HINDU PHILOSOPHIC THOUGHT",
   "bn_title": "হিন্দু দার্শনিক চিন্তার বিভিন্ন স্তর",
-  "verified": true
+  "verified": true,
+  "en_stale": 3903,
+  "bn_stale": 5435
  },
  {
-  "bn": 5748,
-  "en": 4239,
+  "bn": 7739,
+  "en": 6230,
   "sim": 0.7742153406143188,
   "en_title": "REAWAKENING OF HINDUISM ON A NATIONAL BASIS",
   "bn_title": "জাতীয় ভিত্তিতে হিন্দুধর্মের পুনর্বোধন",
-  "verified": true
+  "verified": true,
+  "en_stale": 4239,
+  "bn_stale": 5748
  },
  {
-  "bn": 5354,
-  "en": 3883,
+  "bn": 7345,
+  "en": 5874,
   "sim": 0.7741959095001221,
   "en_title": "PRANA",
   "bn_title": "প্রাণ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3883,
+  "bn_stale": 5354
  },
  {
-  "bn": 5705,
-  "en": 4049,
+  "bn": 7696,
+  "en": 6040,
   "sim": 0.7740013003349304,
   "en_title": "THE MAHABHARATA",
   "bn_title": "মহাভারত",
-  "verified": true
+  "verified": true,
+  "en_stale": 4049,
+  "bn_stale": 5705
  },
  {
-  "bn": 5474,
-  "en": 4045,
+  "bn": 7465,
+  "en": 6036,
   "sim": 0.7736374735832214,
   "en_title": "THE NEED OF SYMBOLS",
   "bn_title": "প্রতীকের ও বৈধী ভক্তির প্রয়োজনীয়তা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4045,
+  "bn_stale": 5474
  },
  {
-  "bn": 5831,
-  "en": 4303,
+  "bn": 7822,
+  "en": 6294,
   "sim": 0.7721719741821289,
   "en_title": "RELIGION IS SELF-ABNEGATION",
   "bn_title": "স্বার্থ-বিলোপই ধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4303,
+  "bn_stale": 5831
  },
  {
-  "bn": 5418,
-  "en": 4704,
+  "bn": 7409,
+  "en": 6695,
   "sim": 0.772081732749939,
   "en_title": "THE BIRTH OF RELIGION",
   "bn_title": "ধর্মের উদ্ভব",
-  "verified": true
+  "verified": true,
+  "en_stale": 4704,
+  "bn_stale": 5418
  },
  {
-  "bn": 5505,
-  "en": 4741,
+  "bn": 7496,
+  "en": 6732,
   "sim": 0.7719497084617615,
   "en_title": "THE WORSHIP OF THE DIVINE MOTHER",
   "bn_title": "মাতৃভাবে উপাসনা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4741,
+  "bn_stale": 5505
  },
  {
-  "bn": 5547,
-  "en": 4731,
+  "bn": 7538,
+  "en": 6722,
   "sim": 0.7712193727493286,
   "en_title": "CHRISTIANITY IN INDIA",
   "bn_title": "ভারতে খ্রীষ্টধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4731,
+  "bn_stale": 5547
  },
  {
-  "bn": 5820,
-  "en": 4320,
+  "bn": 7811,
+  "en": 6311,
   "sim": 0.7711598873138428,
   "en_title": "FRAGMENTARY NOTES ON THE RAMAYANA",
   "bn_title": "রামায়ণ-প্রসঙ্গে",
-  "verified": false
+  "verified": false,
+  "en_stale": 4320,
+  "bn_stale": 5820
  },
  {
-  "bn": 5412,
-  "en": 3900,
+  "bn": 7403,
+  "en": 5891,
   "sim": 0.7711275815963745,
   "en_title": "REASON AND RELIGION",
   "bn_title": "যুক্তি ও ধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 3900,
+  "bn_stale": 5412
  },
  {
-  "bn": 5339,
-  "en": 4244,
+  "bn": 7331,
+  "en": 6235,
   "sim": 0.7704403400421143,
   "en_title": "WORK IS WORSHIP",
   "bn_title": "কর্মই উপাসনা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4244,
+  "bn_stale": 5339
  },
  {
-  "bn": 5333,
-  "en": 3876,
+  "bn": 7324,
+  "en": 5867,
   "sim": 0.76926189661026,
   "en_title": "WE HELP OURSELVES, NOT THE WORLD",
   "bn_title": "পরোপকারে নিজেরই উপকার",
-  "verified": true
+  "verified": true,
+  "en_stale": 3876,
+  "bn_stale": 5333
  },
  {
-  "bn": 5545,
-  "en": 4060,
+  "bn": 7536,
+  "en": 6051,
   "sim": 0.7683053016662598,
   "en_title": "IS INDIA A BENIGHTED COUNTRY?",
   "bn_title": "ভারত কি তমসাচ্ছন্ন দেশ?",
-  "verified": true
+  "verified": true,
+  "en_stale": 4060,
+  "bn_stale": 5545
  },
  {
-  "bn": 5513,
-  "en": 3999,
+  "bn": 7504,
+  "en": 5990,
   "sim": 0.7681646347045898,
   "en_title": "REPLY TO THE ADDRESS OF WELCOME AT SHIVAGANGA AND MANAMADURA",
   "bn_title": "মনমাদুরা অভিনন্দনের উত্তর",
-  "verified": false
+  "verified": false,
+  "en_stale": 3999,
+  "bn_stale": 5513
  },
  {
-  "bn": 5806,
-  "en": 3914,
+  "bn": 7797,
+  "en": 5905,
   "sim": 0.7679814696311951,
   "en_title": "BREATHING",
   "bn_title": "প্রাণায়াম *",
-  "verified": false
+  "verified": false,
+  "en_stale": 3914,
+  "bn_stale": 5806
  },
  {
-  "bn": 5519,
-  "en": 4005,
+  "bn": 7510,
+  "en": 5996,
   "sim": 0.7675116062164307,
   "en_title": "THE SAGES OF INDIA",
   "bn_title": "ভারতীয় মহাপুরুষগণ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4005,
+  "bn_stale": 5519
  },
  {
-  "bn": 5487,
-  "en": 4568,
+  "bn": 7478,
+  "en": 6559,
   "sim": 0.7672324776649475,
   "en_title": "RECORDED BY MISS S. E. WALDO (A DISCIPLE)",
   "bn_title": "দেববাণী - ৯",
-  "verified": false
+  "verified": false,
+  "en_stale": 4568,
+  "bn_stale": 5487
  },
  {
-  "bn": 5647,
-  "en": 4414,
+  "bn": 7638,
+  "en": 6405,
   "sim": 0.7670056223869324,
   "en_title": "LXXVII",
   "bn_title": "পত্রাবলী ২২৫-২৩৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4414,
+  "bn_stale": 5647
  },
  {
-  "bn": 5807,
-  "en": 3915,
+  "bn": 7798,
+  "en": 5906,
   "sim": 0.7669317722320557,
   "en_title": "PRACTICAL RELIGION: BREATHING AND MEDITATION",
   "bn_title": "যোগের মূল সত্য*",
-  "verified": false
+  "verified": false,
+  "en_stale": 3915,
+  "bn_stale": 5807
  },
  {
-  "bn": 5445,
-  "en": 4295,
+  "bn": 7436,
+  "en": 6286,
   "sim": 0.7663625478744507,
   "en_title": "CONCENTRATION AND BREATHING",
   "bn_title": "একাগ্রতা ও শ্বাস-ক্রিয়া",
-  "verified": true
+  "verified": true,
+  "en_stale": 4295,
+  "bn_stale": 5445
  },
  {
-  "bn": 5655,
-  "en": 4175,
+  "bn": 7646,
+  "en": 6166,
   "sim": 0.7660402655601501,
   "en_title": "LXVIII",
   "bn_title": "পত্রাবলী ৩০৫-৩১৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4175,
+  "bn_stale": 5655
  },
  {
-  "bn": 5346,
-  "en": 4693,
+  "bn": 7337,
+  "en": 6684,
   "sim": 0.7659940719604492,
   "en_title": "RAJA YOGA SECOND LESSON",
   "bn_title": "দ্বিতীয় পাঠ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4693,
+  "bn_stale": 5346
  },
  {
-  "bn": 5543,
-  "en": 4738,
+  "bn": 7534,
+  "en": 6729,
   "sim": 0.7653157114982605,
   "en_title": "THE PEOPLE OF INDIA",
   "bn_title": "ভারতের মানুষ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4738,
+  "bn_stale": 5543
  },
  {
-  "bn": 5449,
-  "en": 4309,
+  "bn": 7440,
+  "en": 6300,
   "sim": 0.7650110721588135,
   "en_title": "ON RAJA-YOGA",
   "bn_title": "রাজযোগ -প্রসঙ্গে",
-  "verified": true
+  "verified": true,
+  "en_stale": 4309,
+  "bn_stale": 5449
  },
  {
-  "bn": 5369,
-  "en": 3937,
+  "bn": 7360,
+  "en": 5928,
   "sim": 0.764715850353241,
   "en_title": "THE REAL AND THE APPARENT MAN",
   "bn_title": "মানুষের যথার্থ স্বরূপ (২)",
-  "verified": true
+  "verified": true,
+  "en_stale": 3937,
+  "bn_stale": 5369
  },
  {
-  "bn": 5355,
-  "en": 3884,
+  "bn": 7346,
+  "en": 5875,
   "sim": 0.7645962238311768,
   "en_title": "THE PSYCHIC PRANA",
   "bn_title": "প্রাণের আধ্যাত্মিক রূপ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3884,
+  "bn_stale": 5355
  },
  {
-  "bn": 5707,
-  "en": 4052,
+  "bn": 7698,
+  "en": 6043,
   "sim": 0.764437198638916,
   "en_title": "THE STORY OF PRAHLADA",
   "bn_title": "প্রহ্লাদ-চরিত্র",
-  "verified": true
+  "verified": true,
+  "en_stale": 4052,
+  "bn_stale": 5707
  },
  {
-  "bn": 5531,
-  "en": 4016,
+  "bn": 7522,
+  "en": 6007,
   "sim": 0.7639076709747314,
   "en_title": "THE VEDANTA",
   "bn_title": "বেদান্ত - (লাহোরে প্রদত্ত বক্তৃতা)",
-  "verified": true
+  "verified": true,
+  "en_stale": 4016,
+  "bn_stale": 5531
  },
  {
-  "bn": 5798,
-  "en": 3964,
+  "bn": 7789,
+  "en": 5955,
   "sim": 0.7628343105316162,
   "en_title": "THE HINDU VIEW OF LIFE",
   "bn_title": "হিন্দু জীবন-দর্শন",
-  "verified": true
+  "verified": true,
+  "en_stale": 3964,
+  "bn_stale": 5798
  },
  {
-  "bn": 5347,
-  "en": 4694,
+  "bn": 7338,
+  "en": 6685,
   "sim": 0.7627625465393066,
   "en_title": "RAJA YOGA THIRD LESSON",
   "bn_title": "তৃতীয় পাঠ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4694,
+  "bn_stale": 5347
  },
  {
-  "bn": 5440,
-  "en": 4293,
+  "bn": 7431,
+  "en": 6284,
   "sim": 0.7621985673904419,
   "en_title": "THE IMPORTANCE OF PSYCHOLOGY",
   "bn_title": "যোগ ও মনোবিজ্ঞান",
-  "verified": true
+  "verified": true,
+  "en_stale": 4293,
+  "bn_stale": 5440
  },
  {
-  "bn": 5432,
-  "en": 3902,
+  "bn": 7423,
+  "en": 5893,
   "sim": 0.7617781162261963,
   "en_title": "THE SPIRIT AND INFLUENCE OF VEDANTA",
   "bn_title": "বেদান্ত -দর্শনের তাৎপর্য ও প্রভাব",
-  "verified": true
+  "verified": true,
+  "en_stale": 3902,
+  "bn_stale": 5432
  },
  {
-  "bn": 5337,
-  "en": 3918,
+  "bn": 7328,
+  "en": 5909,
   "sim": 0.7617270946502686,
   "en_title": "WORK AND ITS SECRET",
   "bn_title": "কর্ম ও তাহার রহস্য",
-  "verified": true
+  "verified": true,
+  "en_stale": 3918,
+  "bn_stale": 5337
  },
  {
-  "bn": 5782,
-  "en": 3953,
+  "bn": 7773,
+  "en": 5944,
   "sim": 0.7614609599113464,
   "en_title": "DIVINITY OF MAN",
   "bn_title": "মানুষের দেবত্ব",
-  "verified": true
+  "verified": true,
+  "en_stale": 3953,
+  "bn_stale": 5782
  },
  {
-  "bn": 5338,
-  "en": 4242,
+  "bn": 7329,
+  "en": 6233,
   "sim": 0.7614158391952515,
   "en_title": "ON KARMA-YOGA",
   "bn_title": "কর্মযোগ-প্রসঙ্গে",
-  "verified": true
+  "verified": true,
+  "en_stale": 4242,
+  "bn_stale": 5338
  },
  {
-  "bn": 5410,
-  "en": 3897,
+  "bn": 7401,
+  "en": 5888,
   "sim": 0.7611721158027649,
   "en_title": "WHAT IS RELIGION?",
   "bn_title": "ধর্ম কি?",
-  "verified": true
+  "verified": true,
+  "en_stale": 3897,
+  "bn_stale": 5410
  },
  {
-  "bn": 5842,
-  "en": 4318,
+  "bn": 7833,
+  "en": 6309,
   "sim": 0.7608768939971924,
   "en_title": "SPIRIT AND NATURE",
   "bn_title": "চৈতন্য ও প্রকৃতি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4318,
+  "bn_stale": 5842
  },
  {
-  "bn": 5853,
-  "en": 4250,
+  "bn": 7844,
+  "en": 6241,
   "sim": 0.7608324885368347,
   "en_title": "ON LANGUAGE",
   "bn_title": "ভাষা-প্রসঙ্গে",
-  "verified": true
+  "verified": true,
+  "en_stale": 4250,
+  "bn_stale": 5853
  },
  {
-  "bn": 5388,
-  "en": 3947,
+  "bn": 7379,
+  "en": 5938,
   "sim": 0.7607693672180176,
   "en_title": "SOUL, NATURE, AND GOD",
   "bn_title": "আত্মা, প্রকৃতি ও ঈশ্বর",
-  "verified": true
+  "verified": true,
+  "en_stale": 3947,
+  "bn_stale": 5388
  },
  {
-  "bn": 5335,
-  "en": 3878,
+  "bn": 7326,
+  "en": 5869,
   "sim": 0.7601468563079834,
   "en_title": "FREEDOM",
   "bn_title": "মুক্তি",
-  "verified": true
+  "verified": true,
+  "en_stale": 3878,
+  "bn_stale": 5335
  },
  {
-  "bn": 5800,
-  "en": 3966,
+  "bn": 7791,
+  "en": 5957,
   "sim": 0.7598275542259216,
   "en_title": "TRUE BUDDHISM",
   "bn_title": "প্রকৃত বৌদ্ধধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 3966,
+  "bn_stale": 5800
  },
  {
-  "bn": 5709,
-  "en": 3907,
+  "bn": 7700,
+  "en": 5898,
   "sim": 0.7598103284835815,
   "en_title": "KRISHNA",
   "bn_title": "কৃষ্ণ ও তাঁহার শিক্ষা",
-  "verified": true
+  "verified": true,
+  "en_stale": 3907,
+  "bn_stale": 5709
  },
  {
-  "bn": 5390,
-  "en": 4292,
+  "bn": 7381,
+  "en": 6283,
   "sim": 0.7593508958816528,
   "en_title": "THE NATURE OF THE SOUL AND ITS GOAL",
   "bn_title": "আত্মা—ইহার স্বরূপ ও লক্ষ্য",
-  "verified": true
+  "verified": true,
+  "en_stale": 4292,
+  "bn_stale": 5390
  },
  {
-  "bn": 5363,
-  "en": 3892,
+  "bn": 7354,
+  "en": 5883,
   "sim": 0.7591416835784912,
   "en_title": "POWERS",
   "bn_title": "বিভূতি-পাদ",
-  "verified": false
+  "verified": false,
+  "en_stale": 3892,
+  "bn_stale": 5363
  },
  {
-  "bn": 5833,
-  "en": 4306,
+  "bn": 7824,
+  "en": 6297,
   "sim": 0.7591203451156616,
   "en_title": "NOTES ON VEDANTA",
   "bn_title": "বেদান্ত-বিষয়ক বক্তৃতার অনুলিপি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4306,
+  "bn_stale": 5833
  },
  {
-  "bn": 5554,
-  "en": 4092,
+  "bn": 7545,
+  "en": 6083,
   "sim": 0.7591084241867065,
   "en_title": "RAMAKRISHNA: HIS LIFE AND SAYINGS",
   "bn_title": "রামকৃষ্ণ ও তাঁহার উক্তি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4092,
+  "bn_stale": 5554
  },
  {
-  "bn": 5744,
-  "en": 4235,
+  "bn": 7735,
+  "en": 6226,
   "sim": 0.7589482665061951,
   "en_title": "INDIAN MISSIONARY'S MISSION TO ENGLAND",
   "bn_title": "ইংলণ্ডে ভারতীয় ধর্মপ্রচারক",
-  "verified": true
+  "verified": true,
+  "en_stale": 4235,
+  "bn_stale": 5744
  },
  {
-  "bn": 5769,
-  "en": 4035,
+  "bn": 7760,
+  "en": 6026,
   "sim": 0.7586660385131836,
   "en_title": "THE DIVINITY OF MAN",
   "bn_title": "মানুষের দেবত্ব",
-  "verified": true
+  "verified": true,
+  "en_stale": 4035,
+  "bn_stale": 5769
  },
  {
-  "bn": 5789,
-  "en": 5229,
+  "bn": 7780,
+  "en": 7220,
   "sim": 0.7585983872413635,
   "en_title": "A LECTURE ON \"INDIA AND HINDUISM\"",
   "bn_title": "ভারত ও হিন্দুধর্ম সম্বন্ধে",
-  "verified": true
+  "verified": true,
+  "en_stale": 5229,
+  "bn_stale": 5789
  },
  {
-  "bn": 5391,
-  "en": 4298,
+  "bn": 7382,
+  "en": 6289,
   "sim": 0.7582984566688538,
   "en_title": "WORSHIPPER AND WORSHIPPED",
   "bn_title": "পরম লক্ষ্য",
-  "verified": false
+  "verified": false,
+  "en_stale": 4298,
+  "bn_stale": 5391
  },
  {
-  "bn": 5386,
-  "en": 4066,
+  "bn": 7377,
+  "en": 6057,
   "sim": 0.7582575678825378,
   "en_title": "REINCARNATION",
   "bn_title": "পুনর্জন্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4066,
+  "bn_stale": 5386
  },
  {
-  "bn": 5455,
-  "en": 3977,
+  "bn": 7446,
+  "en": 5968,
   "sim": 0.7582480907440186,
   "en_title": "THE NEED OF GURU",
   "bn_title": "গুরুর প্রয়োজনীয়তা",
-  "verified": true
+  "verified": true,
+  "en_stale": 3977,
+  "bn_stale": 5455
  },
  {
-  "bn": 5387,
-  "en": 4065,
+  "bn": 7378,
+  "en": 6056,
   "sim": 0.7580559253692627,
   "en_title": "IS THE SOUL IMMORTAL?",
   "bn_title": "আত্মা কি অমর?",
-  "verified": true
+  "verified": true,
+  "en_stale": 4065,
+  "bn_stale": 5387
  },
  {
-  "bn": 5439,
-  "en": 4702,
+  "bn": 7430,
+  "en": 6693,
   "sim": 0.7572978734970093,
   "en_title": "IS VEDANTA THE FUTURE RELIGION?",
   "bn_title": "বেদান্তই কি ভবিষ্যতের ধর্ম?",
-  "verified": true
+  "verified": true,
+  "en_stale": 4702,
+  "bn_stale": 5439
  },
  {
-  "bn": 5556,
-  "en": 4091,
+  "bn": 7547,
+  "en": 6082,
   "sim": 0.7571706771850586,
   "en_title": "THE PROBLEM OF MODERN INDIA AND ITS SOLUTION",
   "bn_title": "বর্তমান সমস্যা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4091,
+  "bn_stale": 5556
  },
  {
-  "bn": 5508,
-  "en": 3994,
+  "bn": 7499,
+  "en": 5985,
   "sim": 0.7571283578872681,
   "en_title": "VEDANTISM",
   "bn_title": "জাফনায় বক্তৃতা—বেদান্ত",
-  "verified": false
+  "verified": false,
+  "en_stale": 3994,
+  "bn_stale": 5508
  },
  {
-  "bn": 5553,
-  "en": 4335,
+  "bn": 7544,
+  "en": 6326,
   "sim": 0.7567790746688843,
   "en_title": "HINDUISM AND SHRI RAMAKRISHNA",
   "bn_title": "হিন্দুধর্ম ও শ্রীরামকৃষ্ণ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4335,
+  "bn_stale": 5553
  },
  {
-  "bn": 5633,
-  "en": 4412,
+  "bn": 7624,
+  "en": 6403,
   "sim": 0.7563722729682922,
   "en_title": "LXXV",
   "bn_title": "পত্রাবলী ১০১-১১০",
-  "verified": false
+  "verified": false,
+  "en_stale": 4412,
+  "bn_stale": 5633
  },
  {
-  "bn": 5434,
-  "en": 3906,
+  "bn": 7425,
+  "en": 5897,
   "sim": 0.7561677694320679,
   "en_title": "PRIVILEGE",
   "bn_title": "অধিকার",
-  "verified": true
+  "verified": true,
+  "en_stale": 3906,
+  "bn_stale": 5434
  },
  {
-  "bn": 5614,
-  "en": 4101,
+  "bn": 7605,
+  "en": 6092,
   "sim": 0.7558315992355347,
   "en_title": "A HYMN TO THE DIVINE MOTHER",
   "bn_title": "অম্বা-স্তোত্রম্",
-  "verified": true
+  "verified": true,
+  "en_stale": 4101,
+  "bn_stale": 5614
  },
  {
-  "bn": 5397,
-  "en": 4265,
+  "bn": 7388,
+  "en": 6256,
   "sim": 0.755660355091095,
   "en_title": "I",
   "bn_title": "প্রশ্নোত্তরে আলোচনা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4265,
+  "bn_stale": 5397
  },
  {
-  "bn": 5837,
-  "en": 4313,
+  "bn": 7828,
+  "en": 6304,
   "sim": 0.7550132274627686,
   "en_title": "HOW TO BECOME FREE",
   "bn_title": "জীবন-মৃত্যুর বিধান",
-  "verified": true
+  "verified": true,
+  "en_stale": 4313,
+  "bn_stale": 5837
  },
  {
-  "bn": 5799,
-  "en": 3965,
+  "bn": 7790,
+  "en": 5956,
   "sim": 0.7539826035499573,
   "en_title": "IDEALS OF WOMANHOOD",
   "bn_title": "নারীত্বের আদর্শ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3965,
+  "bn_stale": 5799
  },
  {
-  "bn": 5802,
-  "en": 3968,
+  "bn": 7793,
+  "en": 5959,
   "sim": 0.75397789478302,
   "en_title": "CHILD WIDOWS OF INDIA",
   "bn_title": "ভারতের বালবিধবাগণ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3968,
+  "bn_stale": 5802
  },
  {
-  "bn": 5517,
-  "en": 4003,
+  "bn": 7508,
+  "en": 5994,
   "sim": 0.7539231777191162,
   "en_title": "MY PLAN OF CAMPAIGN",
   "bn_title": "আমার সমরনীতি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4003,
+  "bn_stale": 5517
  },
  {
-  "bn": 5371,
-  "en": 3926,
+  "bn": 7362,
+  "en": 5917,
   "sim": 0.7536559104919434,
   "en_title": "MAYA AND FREEDOM",
   "bn_title": "মায়া ও মুক্তি",
-  "verified": true
+  "verified": true,
+  "en_stale": 3926,
+  "bn_stale": 5371
  },
  {
-  "bn": 5437,
-  "en": 4259,
+  "bn": 7428,
+  "en": 6250,
   "sim": 0.7536453604698181,
   "en_title": "BUDDHISM AND VEDANTA",
   "bn_title": "বৌদ্ধধর্ম ও বেদান্ত",
-  "verified": true
+  "verified": true,
+  "en_stale": 4259,
+  "bn_stale": 5437
  },
  {
-  "bn": 5713,
-  "en": 4723,
+  "bn": 7704,
+  "en": 6714,
   "sim": 0.7535020112991333,
   "en_title": "THE DIVINE INCARNATION OR AVATARA",
   "bn_title": "ঈশ্বরের দেহধারণ বা অবতার",
-  "verified": false
+  "verified": false,
+  "en_stale": 4723,
+  "bn_stale": 5713
  },
  {
-  "bn": 5841,
-  "en": 4317,
+  "bn": 7832,
+  "en": 6308,
   "sim": 0.7532579898834229,
   "en_title": "THE DESIGN THEORY",
   "bn_title": "উদ্দেশ্যমূলক সৃষ্টিবাদ",
-  "verified": true
+  "verified": true,
+  "en_stale": 4317,
+  "bn_stale": 5841
  },
  {
-  "bn": 5442,
-  "en": 4058,
+  "bn": 7433,
+  "en": 6049,
   "sim": 0.753085196018219,
   "en_title": "THE BASIS FOR PSYCHIC OR SPIRITUAL RESEARCH",
   "bn_title": "আত্মানুসন্ধান বা আধ্যাত্মিক গবেষণার ভিত্তি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4058,
+  "bn_stale": 5442
  },
  {
-  "bn": 5710,
-  "en": 4700,
+  "bn": 7701,
+  "en": 6691,
   "sim": 0.7529459595680237,
   "en_title": "BUDDHA'S MESSAGE TO THE WORLD",
   "bn_title": "ভগবান্ বুদ্ধ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4700,
+  "bn_stale": 5710
  },
  {
-  "bn": 5352,
-  "en": 3881,
+  "bn": 7343,
+  "en": 5872,
   "sim": 0.7529300451278687,
   "en_title": "INTRODUCTORY",
   "bn_title": "অবতরণিকা",
-  "verified": true
+  "verified": true,
+  "en_stale": 3881,
+  "bn_stale": 5352
  },
  {
-  "bn": 5430,
-  "en": 4260,
+  "bn": 7421,
+  "en": 6251,
   "sim": 0.7527677416801453,
   "en_title": "ON THE VEDANTA PHILOSOPHY",
   "bn_title": "বেদান্ত দর্শন-প্রসঙ্গে",
-  "verified": true
+  "verified": true,
+  "en_stale": 4260,
+  "bn_stale": 5430
  },
  {
-  "bn": 5560,
-  "en": 4093,
+  "bn": 7551,
+  "en": 6084,
   "sim": 0.7525482773780823,
   "en_title": "THE PARIS CONGRESS OF THE HISTORY OF RELIGIONS",
   "bn_title": "পারি প্রদর্শনী",
-  "verified": true
+  "verified": true,
+  "en_stale": 4093,
+  "bn_stale": 5560
  },
  {
-  "bn": 5345,
-  "en": 4692,
+  "bn": 7336,
+  "en": 6683,
   "sim": 0.752405047416687,
   "en_title": "RAJA YOGA FIRST LESSON",
   "bn_title": "প্রথম পাঠ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4692,
+  "bn_stale": 5345
  },
  {
-  "bn": 5830,
-  "en": 4302,
+  "bn": 7821,
+  "en": 6293,
   "sim": 0.7523571848869324,
   "en_title": "RELIGION IS REALISATION",
   "bn_title": "উপলব্ধিই ধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4302,
+  "bn_stale": 5830
  },
  {
-  "bn": 5755,
-  "en": 4023,
+  "bn": 7746,
+  "en": 6014,
   "sim": 0.7521792650222778,
   "en_title": "HINDUS AT THE FAIR",
   "bn_title": "বিশ্বমেলায় হিন্দুগণ",
-  "verified": true
+  "verified": true,
+  "en_stale": 4023,
+  "bn_stale": 5755
  },
  {
-  "bn": 5357,
-  "en": 3886,
+  "bn": 7348,
+  "en": 5877,
   "sim": 0.7507672309875488,
   "en_title": "PRATYAHARA AND DHARANA",
   "bn_title": "প্রত্যাহার ও ধারণা",
-  "verified": true
+  "verified": true,
+  "en_stale": 3886,
+  "bn_stale": 5357
  },
  {
-  "bn": 5803,
-  "en": 3969,
+  "bn": 7794,
+  "en": 5960,
   "sim": 0.7505764961242676,
   "en_title": "SOME CUSTOMS OF THE HINDUS",
   "bn_title": "হিন্দুদের কয়েকটি রীতিনীতি",
-  "verified": true
+  "verified": true,
+  "en_stale": 3969,
+  "bn_stale": 5803
  },
  {
-  "bn": 5324,
-  "en": 3869,
+  "bn": 7315,
+  "en": 5860,
   "sim": 0.7502449750900269,
   "en_title": "RELIGION NOT THE CRYING NEED OF INDIA",
   "bn_title": "খ্রীষ্টানগণ ভারতের জন্য কি করিতে পারেন?",
-  "verified": false
+  "verified": false,
+  "en_stale": 3869,
+  "bn_stale": 5324
  },
  {
-  "bn": 5520,
-  "en": 4001,
+  "bn": 7511,
+  "en": 5992,
   "sim": 0.7502203583717346,
   "en_title": "THE MISSION OF THE VEDANTA",
   "bn_title": "আমাদের উপস্থিত কর্তব্য",
-  "verified": false
+  "verified": false,
+  "en_stale": 4001,
+  "bn_stale": 5520
  },
  {
-  "bn": 5630,
-  "en": 4112,
+  "bn": 7621,
+  "en": 6103,
   "sim": 0.7502191662788391,
   "en_title": "V",
   "bn_title": "পত্রাবলী ৭১-৮০",
-  "verified": false
+  "verified": false,
+  "en_stale": 4112,
+  "bn_stale": 5630
  },
  {
-  "bn": 5790,
-  "en": 3958,
+  "bn": 7781,
+  "en": 5949,
   "sim": 0.7500852346420288,
   "en_title": "THE MANNERS AND CUSTOMS OF INDIA",
   "bn_title": "ভারতীয় আচার-ব্যবহার",
-  "verified": true
+  "verified": true,
+  "en_stale": 3958,
+  "bn_stale": 5790
  },
  {
-  "bn": 5794,
-  "en": 3962,
+  "bn": 7785,
+  "en": 5953,
   "sim": 0.750078022480011,
   "en_title": "THE RELIGION OF BUDDHA",
   "bn_title": "বুদ্ধের ধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 3962,
+  "bn_stale": 5794
  },
  {
-  "bn": 5453,
-  "en": 3975,
+  "bn": 7444,
+  "en": 5966,
   "sim": 0.7499957084655762,
   "en_title": "THE PHILOSOPHY OF ISHVARA",
   "bn_title": "ঈশ্বরের স্বরূপ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3975,
+  "bn_stale": 5453
  },
  {
-  "bn": 5415,
-  "en": 3895,
+  "bn": 7406,
+  "en": 5886,
   "sim": 0.7495526075363159,
   "en_title": "SOUL, GOD AND RELIGION",
   "bn_title": "আত্মা, ঈশ্বর ও ধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 3895,
+  "bn_stale": 5415
  },
  {
-  "bn": 5676,
-  "en": 4332,
+  "bn": 7667,
+  "en": 6323,
   "sim": 0.747956395149231,
   "en_title": "A BENEDICTION",
   "bn_title": "আশীর্বাদ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4332,
+  "bn_stale": 5676
  },
  {
-  "bn": 5712,
-  "en": 4055,
+  "bn": 7703,
+  "en": 6046,
   "sim": 0.7476694583892822,
   "en_title": "CHRIST, THE MESSENGER",
   "bn_title": "ঈশদূত যীশুখ্রীষ্ট",
-  "verified": true
+  "verified": true,
+  "en_stale": 4055,
+  "bn_stale": 5712
  },
  {
-  "bn": 5855,
-  "en": 4743,
+  "bn": 7846,
+  "en": 6734,
   "sim": 0.7475012540817261,
   "en_title": "SAYINGS AND UTTERANCES",
   "bn_title": "উক্তি-সঞ্চয়ন—২",
-  "verified": true
+  "verified": true,
+  "en_stale": 4743,
+  "bn_stale": 5855
  },
  {
-  "bn": 5514,
-  "en": 4074,
+  "bn": 7505,
+  "en": 6065,
   "sim": 0.747388482093811,
   "en_title": "REPLY TO THE ADDRESS OF THE MAHARAJA OF KHETRI",
   "bn_title": "মাদুরা অভিনন্দনের উত্তর",
-  "verified": false
+  "verified": false,
+  "en_stale": 4074,
+  "bn_stale": 5514
  },
  {
-  "bn": 5512,
-  "en": 3998,
+  "bn": 7503,
+  "en": 5989,
   "sim": 0.7473253011703491,
   "en_title": "REPLY TO THE ADDRESS OF WELCOME AT PARAMAKUDI",
   "bn_title": "পরমকুডি অভিনন্দনের উত্তর",
-  "verified": true
+  "verified": true,
+  "en_stale": 3998,
+  "bn_stale": 5512
  },
  {
-  "bn": 5356,
-  "en": 3885,
+  "bn": 7347,
+  "en": 5876,
   "sim": 0.7465122938156128,
   "en_title": "THE CONTROL OF PSYCHIC PRANA",
   "bn_title": "অধ্যাত্ম প্রাণের সংযম",
-  "verified": true
+  "verified": true,
+  "en_stale": 3885,
+  "bn_stale": 5356
  },
  {
-  "bn": 5326,
-  "en": 3871,
+  "bn": 7317,
+  "en": 5862,
   "sim": 0.746372640132904,
   "en_title": "ADDRESS AT THE FINAL SESSION",
   "bn_title": "বিদায়",
-  "verified": true
+  "verified": true,
+  "en_stale": 3871,
+  "bn_stale": 5326
  },
  {
-  "bn": 5780,
-  "en": 4622,
+  "bn": 7771,
+  "en": 6613,
   "sim": 0.7457049489021301,
   "en_title": "COMPARATIVE THEOLOGY",
   "bn_title": "তুলনাত্মক ধর্মতত্ত্ব",
-  "verified": true
+  "verified": true,
+  "en_stale": 4622,
+  "bn_stale": 5780
  },
  {
-  "bn": 5828,
-  "en": 4601,
+  "bn": 7819,
+  "en": 6592,
   "sim": 0.7456249594688416,
   "en_title": "CONVERSATIONS AND DIALOGUE",
   "bn_title": "ইতিহাসের প্রতিশোধ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4601,
+  "bn_stale": 5828
  },
  {
-  "bn": 5443,
-  "en": 4264,
+  "bn": 7434,
+  "en": 6255,
   "sim": 0.7456217408180237,
   "en_title": "THE AIM OF RAJA-YOGA",
   "bn_title": "রাজযোগের লক্ষ্য",
-  "verified": true
+  "verified": true,
+  "en_stale": 4264,
+  "bn_stale": 5443
  },
  {
-  "bn": 5374,
-  "en": 3933,
+  "bn": 7365,
+  "en": 5924,
   "sim": 0.74558424949646,
   "en_title": "THE COSMOS: THE MICROCOSM",
   "bn_title": "জগৎ (২) (ক্ষুদ্র ব্রহ্মাণ্ড)",
-  "verified": true
+  "verified": true,
+  "en_stale": 3933,
+  "bn_stale": 5374
  },
  {
-  "bn": 5470,
-  "en": 3992,
+  "bn": 7461,
+  "en": 5983,
   "sim": 0.7446559071540833,
   "en_title": "CONCLUSION",
   "bn_title": "উপসংহার",
-  "verified": true
+  "verified": true,
+  "en_stale": 3992,
+  "bn_stale": 5470
  },
  {
-  "bn": 5723,
-  "en": 4513,
+  "bn": 7714,
+  "en": 6504,
   "sim": 0.7445022463798523,
   "en_title": "VIII",
   "bn_title": "স্বামি-শিষ্য-সংবাদ ৬-১০",
-  "verified": false
+  "verified": false,
+  "en_stale": 4513,
+  "bn_stale": 5723
  },
  {
-  "bn": 5551,
-  "en": 4075,
+  "bn": 7542,
+  "en": 6066,
   "sim": 0.7441616058349609,
   "en_title": "REPLY TO THE MADRAS ADDRESS",
   "bn_title": "হিন্দুধর্মের সার্বভৌমিকতা",
-  "verified": false
+  "verified": false,
+  "en_stale": 4075,
+  "bn_stale": 5551
  },
  {
-  "bn": 5771,
-  "en": 4037,
+  "bn": 7762,
+  "en": 6028,
   "sim": 0.7441043257713318,
   "en_title": "THE WOMEN OF INDIA",
   "bn_title": "ভারতীয় নারী",
-  "verified": true
+  "verified": true,
+  "en_stale": 4037,
+  "bn_stale": 5771
  },
  {
-  "bn": 5768,
-  "en": 4034,
+  "bn": 7759,
+  "en": 6025,
   "sim": 0.7440794110298157,
   "en_title": "MIRACLES",
   "bn_title": "অলৌকিক ঘটনা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4034,
+  "bn_stale": 5768
  },
  {
-  "bn": 5332,
-  "en": 3875,
+  "bn": 7323,
+  "en": 5866,
   "sim": 0.7440276145935059,
   "en_title": "WHAT IS DUTY?",
   "bn_title": "কর্তব্য কি?",
-  "verified": true
+  "verified": true,
+  "en_stale": 3875,
+  "bn_stale": 5332
  },
  {
-  "bn": 5349,
-  "en": 4696,
+  "bn": 7340,
+  "en": 6687,
   "sim": 0.7435363531112671,
   "en_title": "RAJA YOGA FIFTH LESSON",
   "bn_title": "পঞ্চম পাঠ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4696,
+  "bn_stale": 5349
  },
  {
-  "bn": 5330,
-  "en": 3873,
+  "bn": 7321,
+  "en": 5864,
   "sim": 0.7434832453727722,
   "en_title": "EACH IS GREAT IN HIS OWN PLACE",
   "bn_title": "নিজ নিজ কর্মক্ষেত্রে প্রত্যেকেই বড়",
-  "verified": true
+  "verified": true,
+  "en_stale": 3873,
+  "bn_stale": 5330
  },
  {
-  "bn": 5424,
-  "en": 4706,
+  "bn": 7415,
+  "en": 6697,
   "sim": 0.742516279220581,
   "en_title": "CYCLIC REST AND CHANGE",
   "bn_title": "কল্পকালীন স্থিতি ও পরিবর্তন",
-  "verified": true
+  "verified": true,
+  "en_stale": 4706,
+  "bn_stale": 5424
  },
  {
-  "bn": 5438,
-  "en": 4297,
+  "bn": 7429,
+  "en": 6288,
   "sim": 0.7424130439758301,
   "en_title": "THE VEDANTA PHILOSOPHY AND CHRISTIANITY",
   "bn_title": "বেদান্তদর্শন এবং খ্রীষ্টধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4297,
+  "bn_stale": 5438
  },
  {
-  "bn": 5809,
-  "en": 4068,
+  "bn": 7800,
+  "en": 6059,
   "sim": 0.7424076795578003,
   "en_title": "ON PROFESSOR MAX MÜLLER",
   "bn_title": "ভারতবন্ধু অধ্যাপক ম্যাক্সমূলার",
-  "verified": true
+  "verified": true,
+  "en_stale": 4068,
+  "bn_stale": 5809
  },
  {
-  "bn": 5441,
-  "en": 3919,
+  "bn": 7432,
+  "en": 5910,
   "sim": 0.7420923709869385,
   "en_title": "THE POWERS OF THE MIND",
   "bn_title": "মনের শক্তি",
-  "verified": true
+  "verified": true,
+  "en_stale": 3919,
+  "bn_stale": 5441
  },
  {
-  "bn": 5376,
-  "en": 3930,
+  "bn": 7367,
+  "en": 5921,
   "sim": 0.7417935132980347,
   "en_title": "UNITY IN DIVERSITY",
   "bn_title": "বহুত্বে একত্ব",
-  "verified": true
+  "verified": true,
+  "en_stale": 3930,
+  "bn_stale": 5376
  },
  {
-  "bn": 5360,
-  "en": 3889,
+  "bn": 7351,
+  "en": 5880,
   "sim": 0.7417747974395752,
   "en_title": "INTRODUCTION",
   "bn_title": "উপক্রমণিকা",
-  "verified": false
+  "verified": false,
+  "en_stale": 3889,
+  "bn_stale": 5360
  },
  {
-  "bn": 5843,
-  "en": 4319,
+  "bn": 7834,
+  "en": 6310,
   "sim": 0.7417446374893188,
   "en_title": "THE PRACTICE OF RELIGION",
   "bn_title": "ধর্মের অনুশীলন",
-  "verified": true
+  "verified": true,
+  "en_stale": 4319,
+  "bn_stale": 5843
  },
  {
-  "bn": 5846,
-  "en": 4282,
+  "bn": 7837,
+  "en": 6273,
   "sim": 0.7412030100822449,
   "en_title": "THE RAMAKRISHNA HOME OF SERVICE VARANASI: AN APPEAL",
   "bn_title": "বারাণসী শ্রীরামকৃষ্ণ সেবাশ্রমঃ আবেদন",
-  "verified": true
+  "verified": true,
+  "en_stale": 4282,
+  "bn_stale": 5846
  },
  {
-  "bn": 5461,
-  "en": 3984,
+  "bn": 7452,
+  "en": 5975,
   "sim": 0.7411645650863647,
   "en_title": "THE PREPARATORY RENUNCIATION",
   "bn_title": "ভক্তির প্রস্তুতি—ত্যাগ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3984,
+  "bn_stale": 5461
  },
  {
-  "bn": 5413,
-  "en": 3943,
+  "bn": 7404,
+  "en": 5934,
   "sim": 0.7408646941184998,
   "en_title": "THE IDEAL OF A UNIVERSAL RELIGION",
   "bn_title": "বিশ্বজনীন ধর্মের আদর্শ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3943,
+  "bn_stale": 5413
  },
  {
-  "bn": 5751,
-  "en": 4268,
+  "bn": 7742,
+  "en": 6259,
   "sim": 0.7404234409332275,
   "en_title": "IV",
   "bn_title": "প্রশ্নোত্তর ১-৫",
-  "verified": false
+  "verified": false,
+  "en_stale": 4268,
+  "bn_stale": 5751
  },
  {
-  "bn": 5452,
-  "en": 3974,
+  "bn": 7443,
+  "en": 5965,
   "sim": 0.7399123311042786,
   "en_title": "PRAYER",
   "bn_title": "ভক্তিযোগ",
-  "verified": false
+  "verified": false,
+  "en_stale": 3974,
+  "bn_stale": 5452
  },
  {
-  "bn": 5407,
-  "en": 3973,
+  "bn": 7398,
+  "en": 5964,
   "sim": 0.739163875579834,
   "en_title": "ONE EXISTENCE APPEARING AS MANY",
   "bn_title": "বহুরূপে প্রকাশিত এক সত্তা",
-  "verified": true
+  "verified": true,
+  "en_stale": 3973,
+  "bn_stale": 5407
  },
  {
-  "bn": 5741,
-  "en": 4232,
+  "bn": 7732,
+  "en": 6223,
   "sim": 0.7390105724334717,
   "en_title": "AN INDIAN YOGI IN LONDON",
   "bn_title": "লণ্ডনে ভারতীয় যোগী",
-  "verified": true
+  "verified": true,
+  "en_stale": 4232,
+  "bn_stale": 5741
  },
  {
-  "bn": 5537,
-  "en": 4021,
+  "bn": 7528,
+  "en": 6012,
   "sim": 0.7386689782142639,
   "en_title": "THE RELIGION WE ARE BORN IN",
   "bn_title": "আমাদের জন্মপ্রাপ্ত ধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4021,
+  "bn_stale": 5537
  },
  {
-  "bn": 5509,
-  "en": 3995,
+  "bn": 7500,
+  "en": 5986,
   "sim": 0.7386411428451538,
   "en_title": "REPLY TO THE ADDRESS OF WELCOME AT PAMBAN",
   "bn_title": "পাম্বান-অভিনন্দনের উত্তর",
-  "verified": false
+  "verified": false,
+  "en_stale": 3995,
+  "bn_stale": 5509
  },
  {
-  "bn": 5351,
-  "en": 3880,
+  "bn": 7342,
+  "en": 5871,
   "sim": 0.7382944226264954,
   "en_title": "PREFACE",
   "bn_title": "ভূমিকা",
-  "verified": false
+  "verified": false,
+  "en_stale": 3880,
+  "bn_stale": 5351
  },
  {
-  "bn": 5770,
-  "en": 4036,
+  "bn": 7761,
+  "en": 6027,
   "sim": 0.7377582788467407,
   "en_title": "THE LOVE OF GOD",
   "bn_title": "ভগবৎপ্রেম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4036,
+  "bn_stale": 5770
  },
  {
-  "bn": 5745,
-  "en": 4236,
+  "bn": 7736,
+  "en": 6227,
   "sim": 0.7374061346054077,
   "en_title": "WITH THE SWAMI VIVEKANANDA AT MADURA",
   "bn_title": "স্বামীজীর সহিত মাদুরায় একঘণ্টা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4236,
+  "bn_stale": 5745
  },
  {
-  "bn": 5777,
-  "en": 4619,
+  "bn": 7768,
+  "en": 6610,
   "sim": 0.7371182441711426,
   "en_title": "MERCINARIES IN RELIGION",
   "bn_title": "ধর্মে দোকানদারি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4619,
+  "bn_stale": 5777
  },
  {
-  "bn": 5704,
-  "en": 4048,
+  "bn": 7695,
+  "en": 6039,
   "sim": 0.7370968461036682,
   "en_title": "THE RAMAYANA",
   "bn_title": "রামায়ণ",
-  "verified": true
+  "verified": true,
+  "en_stale": 4048,
+  "bn_stale": 5704
  },
  {
-  "bn": 5422,
-  "en": 4291,
+  "bn": 7413,
+  "en": 6282,
   "sim": 0.7361875772476196,
   "en_title": "THE METHODS AND PURPOSE OF RELIGION",
   "bn_title": "ধর্মের সাধন-প্রণালী ও উদ্দেশ্য",
-  "verified": true
+  "verified": true,
+  "en_stale": 4291,
+  "bn_stale": 5422
  },
  {
-  "bn": 5621,
-  "en": 4105,
+  "bn": 7612,
+  "en": 6096,
   "sim": 0.7356985211372375,
   "en_title": "A SONG I SING TO THEE",
   "bn_title": "গাই গীত শুনাতে তোমায়",
-  "verified": true
+  "verified": true,
+  "en_stale": 4105,
+  "bn_stale": 5621
  },
  {
-  "bn": 5649,
-  "en": 4384,
+  "bn": 7640,
+  "en": 6375,
   "sim": 0.7355061769485474,
   "en_title": "XLVII",
   "bn_title": "পত্রাবলী ২৪৫-২৫৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4384,
+  "bn_stale": 5649
  },
  {
-  "bn": 5626,
-  "en": 4518,
+  "bn": 7617,
+  "en": 6509,
   "sim": 0.7352792024612427,
   "en_title": "XXIII",
   "bn_title": "পত্রাবলী ৩১-৪০",
-  "verified": false
+  "verified": false,
+  "en_stale": 4518,
+  "bn_stale": 5626
  },
  {
-  "bn": 5788,
-  "en": 3957,
+  "bn": 7779,
+  "en": 5948,
   "sim": 0.7350692749023438,
   "en_title": "AN EVENING WITH OUR HINDU COUSINS",
   "bn_title": "আমাদের হিন্দু ভ্রাতাদের সহিত একটি সন্ধ্যা",
-  "verified": true
+  "verified": true,
+  "en_stale": 3957,
+  "bn_stale": 5788
  },
  {
-  "bn": 5792,
-  "en": 3960,
+  "bn": 7783,
+  "en": 5951,
   "sim": 0.7348510026931763,
   "en_title": "SECTS AND DOCTRINES IN INDIA",
   "bn_title": "ভারতের ধর্মসম্প্রদায় ও ধর্মবিশ্বাস",
-  "verified": true
+  "verified": true,
+  "en_stale": 3960,
+  "bn_stale": 5792
  },
  {
-  "bn": 5778,
-  "en": 4620,
+  "bn": 7769,
+  "en": 6611,
   "sim": 0.7347248196601868,
   "en_title": "THE DESTINY OF MAN",
   "bn_title": "মানুষের নিয়তি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4620,
+  "bn_stale": 5778
  },
  {
-  "bn": 5763,
-  "en": 4029,
+  "bn": 7754,
+  "en": 6020,
   "sim": 0.7345749735832214,
   "en_title": "THE HINDOO RELIGION",
   "bn_title": "হিন্দুধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4029,
+  "bn_stale": 5763
  },
  {
-  "bn": 5504,
-  "en": 4728,
+  "bn": 7495,
+  "en": 6719,
   "sim": 0.7342354655265808,
   "en_title": "THE LOVE OF GOD - II",
   "bn_title": "ভগবৎ-প্রেম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4728,
+  "bn_stale": 5504
  },
  {
-  "bn": 5576,
-  "en": 4607,
+  "bn": 7567,
+  "en": 6598,
   "sim": 0.733585000038147,
   "en_title": "MEMOIRS OF EUROPEAN TRAVEL",
   "bn_title": "ইওরোপে",
-  "verified": false
+  "verified": false,
+  "en_stale": 4607,
+  "bn_stale": 5576
  },
  {
-  "bn": 5848,
-  "en": 3945,
+  "bn": 7839,
+  "en": 5936,
   "sim": 0.7333694696426392,
   "en_title": "THE WAY TO BLESSEDNESS",
   "bn_title": "শ্রেয়োলাভের পথ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3945,
+  "bn_stale": 5848
  },
  {
-  "bn": 5795,
-  "en": 3963,
+  "bn": 7786,
+  "en": 5954,
   "sim": 0.7327763438224792,
   "en_title": "ALL RELIGIONS ARE GOOD",
   "bn_title": "সকল ধর্মই ভাল",
-  "verified": true
+  "verified": true,
+  "en_stale": 3963,
+  "bn_stale": 5795
  },
  {
-  "bn": 5557,
-  "en": 4336,
+  "bn": 7548,
+  "en": 6327,
   "sim": 0.7327243089675903,
   "en_title": "THE BENGALI LANGUAGE",
   "bn_title": "বাঙ্গালা ভাষা",
-  "verified": false
+  "verified": false,
+  "en_stale": 4336,
+  "bn_stale": 5557
  },
  {
-  "bn": 5714,
-  "en": 3911,
+  "bn": 7705,
+  "en": 5902,
   "sim": 0.7325860261917114,
   "en_title": "MOHAMMED",
   "bn_title": "মহম্মদ",
-  "verified": false
+  "verified": false,
+  "en_stale": 3911,
+  "bn_stale": 5714
  },
  {
-  "bn": 5392,
-  "en": 3944,
+  "bn": 7383,
+  "en": 5935,
   "sim": 0.7325592041015625,
   "en_title": "THE OPEN SECRET",
   "bn_title": "সুবিদিত রহস্য",
-  "verified": true
+  "verified": true,
+  "en_stale": 3944,
+  "bn_stale": 5392
  },
  {
-  "bn": 5650,
-  "en": 4164,
+  "bn": 7641,
+  "en": 6155,
   "sim": 0.7324233055114746,
   "en_title": "LVII",
   "bn_title": "পত্রাবলী ২৫৫-২৬৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4164,
+  "bn_stale": 5650
  },
  {
-  "bn": 5760,
-  "en": 4026,
+  "bn": 7751,
+  "en": 6017,
   "sim": 0.7319023609161377,
   "en_title": "REINCARNATION",
   "bn_title": "পুনর্জন্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4026,
+  "bn_stale": 5760
  },
  {
-  "bn": 5480,
-  "en": 4326,
+  "bn": 7471,
+  "en": 6317,
   "sim": 0.731255054473877,
   "en_title": "MOTHER-WORSHIP",
   "bn_title": "দেববাণী - ২",
-  "verified": false
+  "verified": false,
+  "en_stale": 4326,
+  "bn_stale": 5480
  },
  {
-  "bn": 5471,
-  "en": 4042,
+  "bn": 7462,
+  "en": 6033,
   "sim": 0.730750560760498,
   "en_title": "THE PREPARATION",
   "bn_title": "ভক্তির সাধন",
-  "verified": false
+  "verified": false,
+  "en_stale": 4042,
+  "bn_stale": 5471
  },
  {
-  "bn": 5638,
-  "en": 4129,
+  "bn": 7629,
+  "en": 6120,
   "sim": 0.7302579283714294,
   "en_title": "XXII",
   "bn_title": "পত্রাবলী ১৩৫-১৪৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4129,
+  "bn_stale": 5638
  },
  {
-  "bn": 5348,
-  "en": 4695,
+  "bn": 7339,
+  "en": 6686,
   "sim": 0.7296955585479736,
   "en_title": "RAJA YOGA FOURTH LESSON",
   "bn_title": "চতুর্থ পাঠ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4695,
+  "bn_stale": 5348
  },
  {
-  "bn": 5759,
-  "en": 4025,
+  "bn": 7750,
+  "en": 6016,
   "sim": 0.7290128469467163,
   "en_title": "PERSONAL TRAITS",
   "bn_title": "ব্যক্তিগত বৈশিষ্ট্য",
-  "verified": true
+  "verified": true,
+  "en_stale": 4025,
+  "bn_stale": 5759
  },
  {
-  "bn": 5380,
-  "en": 3938,
+  "bn": 7371,
+  "en": 5929,
   "sim": 0.7289191484451294,
   "en_title": "PRACTICAL VEDANTA",
   "bn_title": "কর্মজীবনে বেদান্ত - প্রথম প্রস্তাব",
-  "verified": true
+  "verified": true,
+  "en_stale": 3938,
+  "bn_stale": 5380
  },
  {
-  "bn": 5726,
-  "en": 4578,
+  "bn": 7717,
+  "en": 6569,
   "sim": 0.7288593053817749,
   "en_title": "CONVERSATIONS AND DIALOGUES",
   "bn_title": "স্বামি-শিষ্য-সংবাদ ২১-২৫",
-  "verified": false
+  "verified": false,
+  "en_stale": 4578,
+  "bn_stale": 5726
  },
  {
-  "bn": 5692,
-  "en": 4185,
+  "bn": 7683,
+  "en": 6176,
   "sim": 0.7285289764404297,
   "en_title": "LXXVIII",
   "bn_title": "পত্রাবলী ৪৩৫-৪৪৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4185,
+  "bn_stale": 5692
  },
  {
-  "bn": 5460,
-  "en": 3982,
+  "bn": 7451,
+  "en": 5973,
   "sim": 0.7280170917510986,
   "en_title": "THE CHOSEN IDEAL",
   "bn_title": "ইষ্টনিষ্ঠা",
-  "verified": true
+  "verified": true,
+  "en_stale": 3982,
+  "bn_stale": 5460
  },
  {
-  "bn": 5671,
-  "en": 4283,
+  "bn": 7662,
+  "en": 6274,
   "sim": 0.7279735803604126,
   "en_title": "WHO KNOWS HOW MOTHER PLAYS!",
   "bn_title": "কে জানে মায়ের খেলা!",
-  "verified": false
+  "verified": false,
+  "en_stale": 4283,
+  "bn_stale": 5671
  },
  {
-  "bn": 5642,
-  "en": 4139,
+  "bn": 7633,
+  "en": 6130,
   "sim": 0.7272024154663086,
   "en_title": "XXXII",
   "bn_title": "পত্রাবলী ১৭৫-১৮৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4139,
+  "bn_stale": 5642
  },
  {
-  "bn": 5786,
-  "en": 3955,
+  "bn": 7777,
+  "en": 5946,
   "sim": 0.7270401120185852,
   "en_title": "RELIGIOUS HARMONY",
   "bn_title": "ধর্মের সমন্বয়",
-  "verified": true
+  "verified": true,
+  "en_stale": 3955,
+  "bn_stale": 5786
  },
  {
-  "bn": 5791,
-  "en": 3959,
+  "bn": 7782,
+  "en": 5950,
   "sim": 0.7270197868347168,
   "en_title": "THE RELIGIONS OF INDIA",
   "bn_title": "ভারতের ধর্মসমূহ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3959,
+  "bn_stale": 5791
  },
  {
-  "bn": 5321,
-  "en": 3866,
+  "bn": 7312,
+  "en": 5857,
   "sim": 0.7268076539039612,
   "en_title": "RESPONSE TO WELCOME",
   "bn_title": "অভ্যর্থনার উত্তর",
-  "verified": true
+  "verified": true,
+  "en_stale": 3866,
+  "bn_stale": 5321
  },
  {
-  "bn": 5464,
-  "en": 3986,
+  "bn": 7455,
+  "en": 5977,
   "sim": 0.7266775965690613,
   "en_title": "THE FORMS OF LOVE — MANIFESTATION",
   "bn_title": "ভক্তির প্রকাশভেদ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3986,
+  "bn_stale": 5464
  },
  {
-  "bn": 5812,
-  "en": 4252,
+  "bn": 7803,
+  "en": 6243,
   "sim": 0.7265653610229492,
   "en_title": "THE SANNYASIN AND THE HOUSEHOLDER",
   "bn_title": "সন্ন্যাসী ও গৃহস্থ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4252,
+  "bn_stale": 5812
  },
  {
-  "bn": 5729,
-  "en": 4588,
+  "bn": 7720,
+  "en": 6579,
   "sim": 0.7262222766876221,
   "en_title": "CONVERSATIONS AND DIALOGUES",
   "bn_title": "স্বামি-শিষ্য-সংবাদ ৩৬-৪০",
-  "verified": false
+  "verified": false,
+  "en_stale": 4588,
+  "bn_stale": 5729
  },
  {
-  "bn": 5362,
-  "en": 3891,
+  "bn": 7353,
+  "en": 5882,
   "sim": 0.7258589863777161,
   "en_title": "CONCENTRATION: ITS PRACTICE",
   "bn_title": "সাধন পাদ",
-  "verified": false
+  "verified": false,
+  "en_stale": 3891,
+  "bn_stale": 5362
  },
  {
-  "bn": 5379,
-  "en": 3931,
+  "bn": 7370,
+  "en": 5922,
   "sim": 0.7258535027503967,
   "en_title": "THE FREEDOM OF THE SOUL",
   "bn_title": "আত্মার মুক্তস্বভাব",
-  "verified": true
+  "verified": true,
+  "en_stale": 3931,
+  "bn_stale": 5379
  },
  {
-  "bn": 5708,
-  "en": 4053,
+  "bn": 7699,
+  "en": 6044,
   "sim": 0.7253933548927307,
   "en_title": "THE GREAT TEACHERS OF THE WORLD",
   "bn_title": "জগতের মহত্তম আচার্যগণ",
-  "verified": true
+  "verified": true,
+  "en_stale": 4053,
+  "bn_stale": 5708
  },
  {
-  "bn": 5849,
-  "en": 4737,
+  "bn": 7840,
+  "en": 6728,
   "sim": 0.7253881692886353,
   "en_title": "WAY TO SALVATION",
   "bn_title": "মুক্তির পথ",
-  "verified": true
+  "verified": true,
+  "en_stale": 4737,
+  "bn_stale": 5849
  },
  {
-  "bn": 5781,
-  "en": 4623,
+  "bn": 7772,
+  "en": 6614,
   "sim": 0.7251161336898804,
   "en_title": "BUDDHISM, THE RELIGION OF THE LIGHT OF ASIA",
   "bn_title": "‘এশিয়ার আলোক’—বুদ্ধদেবের ধর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4623,
+  "bn_stale": 5781
  },
  {
-  "bn": 5456,
-  "en": 3978,
+  "bn": 7447,
+  "en": 5969,
   "sim": 0.7250868082046509,
   "en_title": "QUALIFICATIONS OF THE ASPIRANT AND THE TEACHER",
   "bn_title": "গুরু ও শিষ্যের লক্ষণ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3978,
+  "bn_stale": 5456
  },
  {
-  "bn": 5656,
-  "en": 4179,
+  "bn": 7647,
+  "en": 6170,
   "sim": 0.724852442741394,
   "en_title": "LXXII",
   "bn_title": "পত্রাবলী ৩১৫-৩২৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4179,
+  "bn_stale": 5656
  },
  {
-  "bn": 5613,
-  "en": 4102,
+  "bn": 7604,
+  "en": 6093,
   "sim": 0.7245484590530396,
   "en_title": "A HYMN TO SHIVA",
   "bn_title": "শিবস্তোত্রম্",
-  "verified": true
+  "verified": true,
+  "en_stale": 4102,
+  "bn_stale": 5613
  },
  {
-  "bn": 5609,
-  "en": 4095,
+  "bn": 7600,
+  "en": 6086,
   "sim": 0.7243126034736633,
   "en_title": "MODERN INDIA",
   "bn_title": "শূদ্র-জাগরণ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4095,
+  "bn_stale": 5609
  },
  {
-  "bn": 5696,
-  "en": 4914,
+  "bn": 7687,
+  "en": 6905,
   "sim": 0.7242538332939148,
   "en_title": "CLXX",
   "bn_title": "পত্রাবলী ৪৭৫-৪৮৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4914,
+  "bn_stale": 5696
  },
  {
-  "bn": 5497,
-  "en": 3912,
+  "bn": 7488,
+  "en": 5903,
   "sim": 0.7242091298103333,
   "en_title": "VILVAMANGALA",
   "bn_title": "বিল্বমঙ্গল",
-  "verified": false
+  "verified": false,
+  "en_stale": 3912,
+  "bn_stale": 5497
  },
  {
-  "bn": 5350,
-  "en": 4697,
+  "bn": 7341,
+  "en": 6688,
   "sim": 0.72420334815979,
   "en_title": "RAJA YOGA SIXTH LESSON",
   "bn_title": "ষষ্ঠ পাঠ",
-  "verified": false
+  "verified": false,
+  "en_stale": 4697,
+  "bn_stale": 5350
  },
  {
-  "bn": 5734,
-  "en": 5197,
+  "bn": 7725,
+  "en": 7188,
   "sim": 0.7237259745597839,
   "en_title": "CHAPTER VII",
   "bn_title": "স্বামীজীর সহিত হিমালয়ে ৭-৯",
-  "verified": true
+  "verified": true,
+  "en_stale": 5197,
+  "bn_stale": 5734
  },
  {
-  "bn": 5377,
-  "en": 3928,
+  "bn": 7368,
+  "en": 5919,
   "sim": 0.7234968543052673,
   "en_title": "GOD IN EVERYTHING",
   "bn_title": "সর্ববস্তুতে ব্রহ্মদর্শন",
-  "verified": true
+  "verified": true,
+  "en_stale": 3928,
+  "bn_stale": 5377
  },
  {
-  "bn": 5489,
-  "en": 4254,
+  "bn": 7480,
+  "en": 6245,
   "sim": 0.7230982780456543,
   "en_title": "ON BHAKTI-YOGA",
   "bn_title": "ভক্তিযোগ-প্রসঙ্গে",
-  "verified": true
+  "verified": true,
+  "en_stale": 4254,
+  "bn_stale": 5489
  },
  {
-  "bn": 5533,
-  "en": 4017,
+  "bn": 7524,
+  "en": 6008,
   "sim": 0.7228749990463257,
   "en_title": "VEDANTISM",
   "bn_title": "খেতড়িতে বক্তৃতা—বেদান্ত",
-  "verified": false
+  "verified": false,
+  "en_stale": 4017,
+  "bn_stale": 5533
  },
  {
-  "bn": 5433,
-  "en": 3927,
+  "bn": 7424,
+  "en": 5918,
   "sim": 0.7227674722671509,
   "en_title": "THE ABSOLUTE AND MANIFESTATION",
   "bn_title": "বেদান্ত ও অধিকার",
-  "verified": false
+  "verified": false,
+  "en_stale": 3927,
+  "bn_stale": 5433
  },
  {
-  "bn": 5686,
-  "en": 4855,
+  "bn": 7677,
+  "en": 6846,
   "sim": 0.7222285270690918,
   "en_title": "CXI",
   "bn_title": "পত্রাবলী ৩৭৫-৩৮৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4855,
+  "bn_stale": 5686
  },
  {
-  "bn": 5334,
-  "en": 3877,
+  "bn": 7325,
+  "en": 5868,
   "sim": 0.7218521237373352,
   "en_title": "NON-ATTACHMENT IS COMPLETE SELF-ABNEGATION",
   "bn_title": "অনাসক্তিই পূর্ণ আত্মত্যাগ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3877,
+  "bn_stale": 5334
  },
  {
-  "bn": 5361,
-  "en": 3890,
+  "bn": 7352,
+  "en": 5881,
   "sim": 0.7215968370437622,
   "en_title": "CONCENTRATION: ITS SPIRITUAL USES",
   "bn_title": "সমাধি-পাদ",
-  "verified": true
+  "verified": true,
+  "en_stale": 3890,
+  "bn_stale": 5361
  },
  {
-  "bn": 5836,
-  "en": 4312,
+  "bn": 7827,
+  "en": 6303,
   "sim": 0.7213252782821655,
   "en_title": "THE REALITY AND SHADOW",
   "bn_title": "সত্য এবং ছায়া",
-  "verified": false
+  "verified": false,
+  "en_stale": 4312,
+  "bn_stale": 5836
  },
  {
-  "bn": 5499,
-  "en": 4701,
+  "bn": 7490,
+  "en": 6692,
   "sim": 0.7212576270103455,
   "en_title": "DISCIPLESHIP",
   "bn_title": "শিষ্যের সাধনা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4701,
+  "bn_stale": 5499
  },
  {
-  "bn": 5787,
-  "en": 3956,
+  "bn": 7778,
+  "en": 5947,
   "sim": 0.7210010290145874,
   "en_title": "FROM FAR OFF INDIA",
   "bn_title": "সুদূর ভারতবর্ষ হইতে",
-  "verified": true
+  "verified": true,
+  "en_stale": 3956,
+  "bn_stale": 5787
  },
  {
-  "bn": 5844,
-  "en": 4280,
+  "bn": 7835,
+  "en": 6271,
   "sim": 0.7208804488182068,
   "en_title": "THE BELUR MATH: AN APPEAL",
   "bn_title": "বেলুড় মঠ—আবেদন",
-  "verified": false
+  "verified": false,
+  "en_stale": 4280,
+  "bn_stale": 5844
  },
  {
-  "bn": 5427,
-  "en": 4705,
+  "bn": 7418,
+  "en": 6696,
   "sim": 0.7206665873527527,
   "en_title": "FOUR PATHS OF YOGA",
   "bn_title": "যোগের চারিটি পথ",
-  "verified": true
+  "verified": true,
+  "en_stale": 4705,
+  "bn_stale": 5427
  },
  {
-  "bn": 5783,
-  "en": 5226,
+  "bn": 7774,
+  "en": 7217,
   "sim": 0.7189592719078064,
   "en_title": "A HINDOO MONK",
   "bn_title": "হিন্দু সন্ন্যাসী",
-  "verified": false
+  "verified": false,
+  "en_stale": 5226,
+  "bn_stale": 5783
  },
  {
-  "bn": 5779,
-  "en": 4621,
+  "bn": 7770,
+  "en": 6612,
   "sim": 0.717833936214447,
   "en_title": "REINCARNATION",
   "bn_title": "পুনর্জন্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4621,
+  "bn_stale": 5779
  },
  {
-  "bn": 5851,
-  "en": 4726,
+  "bn": 7842,
+  "en": 6717,
   "sim": 0.7165392637252808,
   "en_title": "CONGRESS OF RELIGIOUS UNITY",
   "bn_title": "ধর্মীয় ঐক্যের মহাসম্মেলন",
-  "verified": true
+  "verified": true,
+  "en_stale": 4726,
+  "bn_stale": 5851
  },
  {
-  "bn": 5502,
-  "en": 4612,
+  "bn": 7493,
+  "en": 6603,
   "sim": 0.7161933183670044,
   "en_title": "ON CONCEPTIONS OF GODHEAD",
   "bn_title": "ঈশ্বর-সম্পর্কে ধারণা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4612,
+  "bn_stale": 5502
  },
  {
-  "bn": 5482,
-  "en": 4511,
+  "bn": 7473,
+  "en": 6502,
   "sim": 0.7159292101860046,
   "en_title": "VI",
   "bn_title": "দেববাণী - ৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4511,
+  "bn_stale": 5482
  },
  {
-  "bn": 5765,
-  "en": 4031,
+  "bn": 7756,
+  "en": 6022,
   "sim": 0.7153904438018799,
   "en_title": "PLEA FOR TOLERANCE",
   "bn_title": "পরমত-সহিষ্ণুতার জন্য অনুনয়",
-  "verified": true
+  "verified": true,
+  "en_stale": 4031,
+  "bn_stale": 5765
  },
  {
-  "bn": 5530,
-  "en": 4015,
+  "bn": 7521,
+  "en": 6006,
   "sim": 0.7150577306747437,
   "en_title": "BHAKTI",
   "bn_title": "ভক্তি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4015,
+  "bn_stale": 5530
  },
  {
-  "bn": 5715,
-  "en": 4069,
+  "bn": 7706,
+  "en": 6060,
   "sim": 0.7124905586242676,
   "en_title": "SKETCH OF THE LIFE OF PAVHARI BABA",
   "bn_title": "পাওহারী বাবা",
-  "verified": false
+  "verified": false,
+  "en_stale": 4069,
+  "bn_stale": 5715
  },
  {
-  "bn": 5637,
-  "en": 4648,
+  "bn": 7628,
+  "en": 6639,
   "sim": 0.711431086063385,
   "en_title": "XXIII",
   "bn_title": "পত্রাবলী ১২৫-১৩৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4648,
+  "bn_stale": 5637
  },
  {
-  "bn": 5750,
-  "en": 4241,
+  "bn": 7741,
+  "en": 6232,
   "sim": 0.711025059223175,
   "en_title": "ON THE BOUNDS OF HINDUISM",
   "bn_title": "হিন্দুধর্মের সীমানা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4241,
+  "bn_stale": 5750
  },
  {
-  "bn": 5740,
-  "en": 4273,
+  "bn": 7731,
+  "en": 6264,
   "sim": 0.7106373310089111,
   "en_title": "II",
   "bn_title": "তিনদিনের স্মৃতিলিপি",
-  "verified": false
+  "verified": false,
+  "en_stale": 4273,
+  "bn_stale": 5740
  },
  {
-  "bn": 5762,
-  "en": 4028,
+  "bn": 7753,
+  "en": 6019,
   "sim": 0.7104629278182983,
   "en_title": "AN INTERESTING LECTURE",
   "bn_title": "একটি চিত্তাকর্ষক বক্তৃতা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4028,
+  "bn_stale": 5762
  },
  {
-  "bn": 5528,
-  "en": 4013,
+  "bn": 7519,
+  "en": 6004,
   "sim": 0.7101508975028992,
   "en_title": "BHAKTI",
   "bn_title": "শিয়ালকোটে বক্তৃতা—ভক্তি",
-  "verified": true
+  "verified": true,
+  "en_stale": 4013,
+  "bn_stale": 5528
  },
  {
-  "bn": 5823,
-  "en": 4720,
+  "bn": 7814,
+  "en": 6711,
   "sim": 0.7098146080970764,
   "en_title": "NOTES OF CLASS TALKS",
   "bn_title": "খ্রীষ্ট আবার কবে অবতীর্ণ হবেন?",
-  "verified": true
+  "verified": true,
+  "en_stale": 4720,
+  "bn_stale": 5823
  },
  {
-  "bn": 5697,
-  "en": 4920,
+  "bn": 7688,
+  "en": 6911,
   "sim": 0.7097449898719788,
   "en_title": "CLXXVI",
   "bn_title": "পত্রাবলী ৪৮৫-৪৯৫",
-  "verified": false
+  "verified": false,
+  "en_stale": 4920,
+  "bn_stale": 5697
  },
  {
-  "bn": 5559,
-  "en": 4337,
+  "bn": 7550,
+  "en": 6328,
   "sim": 0.7095934748649597,
   "en_title": "MATTER FOR SERIOUS THOUGHT",
   "bn_title": "ভাববার কথা",
-  "verified": false
+  "verified": false,
+  "en_stale": 4337,
+  "bn_stale": 5559
  },
  {
-  "bn": 5457,
-  "en": 3979,
+  "bn": 7448,
+  "en": 5970,
   "sim": 0.7089530229568481,
   "en_title": "INCARNATE TEACHERS AND INCARNATION",
   "bn_title": "অবতার",
-  "verified": true
+  "verified": true,
+  "en_stale": 3979,
+  "bn_stale": 5457
  },
  {
-  "bn": 5627,
-  "en": 4370,
+  "bn": 7618,
+  "en": 6361,
   "sim": 0.7086848020553589,
   "en_title": "XXXIII 1",
   "bn_title": "পত্রাবলী ৪১-৫০",
-  "verified": false
+  "verified": false,
+  "en_stale": 4370,
+  "bn_stale": 5627
  },
  {
-  "bn": 5458,
-  "en": 3980,
+  "bn": 7449,
+  "en": 5971,
   "sim": 0.7082050442695618,
   "en_title": "THE MANTRA: OM: WORD AND WISDOM",
   "bn_title": "মন্ত্র",
-  "verified": true
+  "verified": true,
+  "en_stale": 3980,
+  "bn_stale": 5458
  },
  {
-  "bn": 5426,
-  "en": 4255,
+  "bn": 7417,
+  "en": 6246,
   "sim": 0.7077515125274658,
   "en_title": "ISHVARA AND BRAHMAN",
   "bn_title": "ঈশ্বর ও ব্রহ্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4255,
+  "bn_stale": 5426
  },
  {
-  "bn": 5761,
-  "en": 4027,
+  "bn": 7752,
+  "en": 6018,
   "sim": 0.7069929838180542,
   "en_title": "HINDU CIVILISATION",
   "bn_title": "হিন্দুসভ্যতা",
-  "verified": true
+  "verified": true,
+  "en_stale": 4027,
+  "bn_stale": 5761
  },
  {
-  "bn": 5827,
-  "en": 4708,
+  "bn": 7818,
+  "en": 6699,
   "sim": 0.7062540054321289,
   "en_title": "AN INTERESTING CORRESPONDENCE",
   "bn_title": "একটি অপরূপ পত্রালাপ",
-  "verified": true
+  "verified": true,
+  "en_stale": 4708,
+  "bn_stale": 5827
  },
  {
-  "bn": 5459,
-  "en": 3981,
+  "bn": 7450,
+  "en": 5972,
   "sim": 0.7060967683792114,
   "en_title": "WORSHIP OF SUBSTITUTES AND IMAGES",
   "bn_title": "প্রতীক ও প্রতিমা-উপাসনা",
-  "verified": true
+  "verified": true,
+  "en_stale": 3981,
+  "bn_stale": 5459
  },
  {
-  "bn": 5462,
-  "en": 3985,
+  "bn": 7453,
+  "en": 5976,
   "sim": 0.7056140303611755,
   "en_title": "THE BHAKTA'S RENUNCIATION RESULTS FROM LOVE",
   "bn_title": "ভক্তের বৈরাগ্য প্রেমপ্রসূত",
-  "verified": true
+  "verified": true,
+  "en_stale": 3985,
+  "bn_stale": 5462
  },
  {
-  "bn": 5701,
-  "en": 4212,
+  "bn": 7692,
+  "en": 6203,
   "sim": 0.7051708698272705,
   "en_title": "CV",
   "bn_title": "পত্রাবলী ৫২৫-৫৩৪",
-  "verified": false
+  "verified": false,
+  "en_stale": 4212,
+  "bn_stale": 5701
  },
  {
-  "bn": 5536,
-  "en": 4020,
+  "bn": 7527,
+  "en": 6011,
   "sim": 0.7045478224754333,
   "en_title": "WHAT HAVE I LEARNT?",
   "bn_title": "আমি কি শিখিয়াছি ?",
-  "verified": false
+  "verified": false,
+  "en_stale": 4020,
+  "bn_stale": 5536
  },
  {
-  "bn": 5834,
-  "en": 4308,
+  "bn": 7825,
+  "en": 6299,
   "sim": 0.704509437084198,
   "en_title": "THOUGHTS ON THE VEDAS AND THE UPANISHADS",
   "bn_title": "বেদ ও উপনিষদ্‌-প্রসঙ্গে",
-  "verified": true
+  "verified": true,
+  "en_stale": 4308,
+  "bn_stale": 5834
  },
  {
-  "bn": 5510,
-  "en": 3996,
+  "bn": 7501,
+  "en": 5987,
   "sim": 0.7033094763755798,
   "en_title": "ADDRESS AT THE RAMESWARAM TEMPLE ON REAL WORSHIP",
   "bn_title": "রামেশ্বর-মন্দিরে বক্তৃতা",
-  "verified": false
+  "verified": false,
+  "en_stale": 3996,
+  "bn_stale": 5510
  },
  {
-  "bn": 5378,
-  "en": 3929,
+  "bn": 7369,
+  "en": 5920,
   "sim": 0.7029503583908081,
   "en_title": "REALISATION",
   "bn_title": "অপরোক্ষানুভূতি",
-  "verified": true
+  "verified": true,
+  "en_stale": 3929,
+  "bn_stale": 5378
  },
  {
-  "bn": 5674,
-  "en": 4710,
+  "bn": 7665,
+  "en": 6701,
   "sim": 0.702201247215271,
   "en_title": "LIGHT",
   "bn_title": "আলোক",
-  "verified": false
+  "verified": false,
+  "en_stale": 4710,
+  "bn_stale": 5674
  },
  {
-  "bn": 5735,
-  "en": 5200,
+  "bn": 7726,
+  "en": 7191,
   "sim": 0.7019452452659607,
   "en_title": "CHAPTER X",
   "bn_title": "স্বামীজীর সহিত হিমালয়ে ১০-১২",
-  "verified": true
+  "verified": true,
+  "en_stale": 5200,
+  "bn_stale": 5735
  },
  {
-  "bn": 5340,
-  "en": 4245,
+  "bn": 7330,
+  "en": 6236,
   "sim": 0.701852023601532,
   "en_title": "WORK WITHOUT MOTIVE",
   "bn_title": "স্বার্থরহিত কর্ম",
-  "verified": true
+  "verified": true,
+  "en_stale": 4245,
+  "bn_stale": 5340
  },
  {
-  "bn": 5549,
-  "en": 5287,
+  "bn": 7540,
+  "en": 7278,
   "sim": 0.7004942893981934,
   "en_title": "HINDU WIDOWS",
   "bn_title": "ভারতের নারী",
-  "verified": false
+  "verified": false,
+  "en_stale": 5287,
+  "bn_stale": 5549
  }
 ]

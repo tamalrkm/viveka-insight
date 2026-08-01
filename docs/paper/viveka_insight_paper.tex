@@ -61,8 +61,8 @@ built for under one GPU-day and serves interactive queries in 0.3 seconds
 and cited answers in 6--9 seconds on a single GPU. In a known-item
 cross-lingual evaluation over 194 automatically verified
 English--Bengali rendered lecture pairs, the production configuration
-retrieves the counterpart chapter at Recall@10 of 0.86 in both
-directions; over a 30-question audit, the bridging stage fires on 93\% of
+retrieves the counterpart chapter at Recall@10 of 0.86 in both directions,
+against 0.03 for a BM25 baseline that cannot cross the language boundary; over a 30-question audit, the bridging stage fires on 93\% of
 modern questions versus 13\% of timeless ones, and no generated citation
 marker pointed outside the retrieved evidence. A human study of 200
 randomly sampled paragraph--concept edges places concept-extraction
@@ -487,41 +487,78 @@ chapter is the sole gold item; a retrieved paragraph counts if it belongs
 to the gold chapter. We report Recall@10 and MRR over the top 10 returned
 paragraphs in both directions (Table~\ref{tab:knownitem}).
 
-One caveat: pair discovery uses the same embedder as Path A (albeit on
+Two caveats. Pair discovery uses the same embedder as Path A (albeit on
 whole-chapter vectors, while queries are titles plus opening paragraphs),
-so absolute Path-A numbers may be slightly optimistic; comparisons
-\emph{across} configurations are unaffected.
+so absolute dense numbers may be slightly optimistic; comparisons
+\emph{across} configurations are unaffected, and the BM25 baseline is
+independent of that bias. Second, the verified pair set is cached, and a
+full re-parse reassigns chapter row identifiers; the evaluation script
+detects and repairs stale identifiers by chapter title so that the cached
+LLM verdicts remain usable across rebuilds.
 
 \begin{table}[t]
 \centering
 \caption{Known-item cross-lingual retrieval over $N=194$ LLM-verified
-rendered lecture pairs (EN$\to$BN / BN$\to$EN).}
+rendered lecture pairs (EN$\to$BN / BN$\to$EN). The upper block is external
+baselines; the lower block ablates our own stack. The last row is the
+production default.}
 \label{tab:knownitem}
 \begin{tabular}{lcc}
 \toprule
 Configuration & Recall@10 & MRR\\
 \midrule
-Path A (direct dense)        & 0.88 / 0.82 & 0.74 / 0.65\\
-Path B (concept-mediated)    & 0.14 / 0.12 & 0.07 / 0.04\\
-Fused (weighted RRF)         & 0.88 / 0.82 & 0.67 / 0.62\\
-Fused + cross-encoder rerank & 0.86 / 0.86 & 0.67 / 0.70\\
+\multicolumn{3}{l}{\emph{Baselines}}\\
+BM25 (lexical)                     & 0.03 / 0.02 & 0.01 / 0.02\\
+Dense paragraph retrieval          & 0.88 / 0.81 & 0.71 / 0.62\\
+Entity graph (GraphRAG-style)      & 0.20 / 0.08 & 0.12 / 0.03\\
+\midrule
+\multicolumn{3}{l}{\emph{This system}}\\
+Path A (direct dense, multi-granular) & 0.89 / 0.82 & 0.74 / 0.65\\
+Path B (concept-mediated)          & 0.14 / 0.12 & 0.07 / 0.04\\
+Fused (weighted RRF)               & 0.89 / 0.82 & 0.68 / 0.61\\
+Fused + cross-encoder rerank       & 0.86 / 0.86 & 0.67 / 0.69\\
 \bottomrule
 \end{tabular}
 \end{table}
 
-Three observations. First, the shared multilingual embedding space alone
-is a strong cross-lingual known-item retriever: a query built from an
-English lecture finds its Bengali rendering among 14{,}455 Bengali
-paragraphs at Recall@10 of 0.88. Second, the concept path is
-\emph{not} a known-item retriever and is not meant to be one --- it
-expands a query into thematically related material across the whole
-graph, which is precisely what known-item metrics penalize; its value
-shows in query bridging and in the explanatory ``via concepts'' chains,
-not in this table. Third, fusion preserves Path A's recall while adding
-the concept candidates, and the cross-encoder markedly improves the
-harder BN$\to$EN direction (MRR 0.62$\to$0.70, Recall@10
-0.82$\to$0.86) at a small cost in EN$\to$BN, yielding the most balanced
-configuration --- the production default.
+\textbf{Lexical retrieval cannot do this task at all.} BM25 reaches
+Recall@10 of 0.03 and 0.02. That is not a weak baseline but a floor at
+chance: English and Bengali share almost no surface vocabulary, so term
+matching has nothing to match on. It is worth stating plainly, because it
+establishes that every other number in the table is bought by
+\emph{semantic} representation rather than by any lexical signal,.
+
+\textbf{Most of the known-item performance comes from the multilingual
+embedder, not from our additions.} Plain paragraph-level dense retrieval ---
+one index, no fusion, no reranking, no graph --- already reaches 0.88 / 0.81.
+Adding sentence- and chapter-level indexes (Path~A) is worth about a point
+of recall and 0.03 MRR. We report this because it bounds the claim honestly:
+the contribution of this work is not that it retrieves known items better
+than a competent dense baseline, but that it adds cross-lingual
+\emph{explanation}, query bridging and citation grounding on top of one, at
+no cost to that baseline's accuracy.
+
+\textbf{Neither graph path is a known-item retriever, and the entity graph
+is not better than the concept graph at being one.} Routing retrieval
+through the entity layer --- the closest available stand-in for a
+GraphRAG-style system, built by the same extraction pass over the same
+corpus --- gives 0.20 / 0.08, against 0.14 / 0.12 for the concept path. The
+two are comparable and both are far below the dense paths, which is what
+should be expected: graph expansion widens a query into thematically
+related material, and known-item metrics penalise exactly that. The
+distinction that matters between the two layers is not visible in this
+table. It is that entity nodes are proper nouns, so an entity graph links
+passages that mention the same person or place, whereas concept nodes carry
+the argument, and their canonical English labels give a cross-lingual key
+that entity strings in two scripts do not. What Path~B buys is reach and
+the ``via concepts'' explanations, not ranking.
+
+\textbf{Fusion preserves recall and the cross-encoder balances the
+directions.} Fusion keeps Path~A's recall while admitting the concept
+candidates, and the cross-encoder markedly improves the harder BN$\to$EN
+direction (MRR 0.61$\to$0.69, Recall@10 0.82$\to$0.86) at a small cost in
+EN$\to$BN, yielding the most balanced configuration --- the production
+default.
 
 \subsection{Citation integrity and bridge reliability}
 \label{sec:eval-integrity}
